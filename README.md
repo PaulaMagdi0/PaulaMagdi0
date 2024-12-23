@@ -27,6 +27,13 @@ I'm a **Full-Stack Developer** with a passion for creating responsive and user-f
 
 ---
 
+## 📊 GitHub Stats
+
+![Paula's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulaMagdi0&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulaMagdi0&layout=compact&theme=default)
+
+---
+
 ## 🚀 Tools & Technologies
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
