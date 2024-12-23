@@ -27,28 +27,6 @@ I'm a **Full-Stack Developer** with a passion for creating responsive and user-f
 
 ---
 
-## 💼 Work Experience
-
-### Freelance Frontend Developer
-- Developed a fully functional e-commerce website for a clothes store.
-- Designed and launched a responsive UI using **HTML**, **CSS**, **JavaScript**, and **React**.
-- Features included a product catalog and shopping cart for seamless online shopping.
-
----
-
-## 📚 Education
-
-### Open Source Full-Stack Using Python  
-Information Technology Institute (ITI), Cairo, Egypt  
-- Courses: Frontend Development, Databases, Testing, Operating Systems, Linux, Cloud & AWS  
-
-### Bachelor’s Degree in Computer Science and Information Systems  
-October 6 University, Giza, Egypt  
-- Courses: Algorithms, Data Structures, Networking, AI, Programming Syntax & Semantics  
-- **Graduation Project:** Learning Management System Website using **HTML**, **CSS**, **JavaScript**, and **Bootstrap**  
-
----
-
 ## 🚀 Tools & Technologies
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
