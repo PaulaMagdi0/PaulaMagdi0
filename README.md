@@ -9,7 +9,7 @@
 
 ## About Me
 
-I'm a **Full-Stack Developer | MERN Stack Developer** passionate about building responsive and user-friendly web applications. I have experience in **e-commerce platforms, learning management systems, and book management applications**. I am committed to delivering **efficient, scalable, and visually appealing** solutions.
+I'm a **Software Engineer | Full-Stack Developer** specializing in the **MERN stack**, **Python frameworks (Django, Flask)**, and **ERP systems (Odoo)**. I develop high-performance, scalable web applications with responsive UIs, efficient APIs, and optimized databases. I’m experienced with **Docker, AWS**, unit testing, and CI/CD pipelines. I thrive in agile environments and am passionate about continuous learning and impactful development.
 
 📍 **Location:** Cairo, Egypt  
 📧 **Email:** [paulamagdy665@gmail.com](mailto:paulamagdy665@gmail.com)  
@@ -33,10 +33,9 @@ I'm a **Full-Stack Developer | MERN Stack Developer** passionate about building 
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
@@ -45,37 +44,46 @@ I'm a **Full-Stack Developer | MERN Stack Developer** passionate about building 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=api&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-8C3391?style=for-the-badge&logo=odoo&logoColor=white)
 
 ### Methodologies & Workflows
 
 ![Agile](https://img.shields.io/badge/Agile-1E90FF?style=for-the-badge)
 ![Scrum](https://img.shields.io/badge/Scrum-00A676?style=for-the-badge)
 ![Kanban](https://img.shields.io/badge/Kanban-FF4500?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-blue?style=for-the-badge)
+![Unit Testing](https://img.shields.io/badge/Unit%20Testing-yellow?style=for-the-badge)
 
-## 🎓 Education
+---
 
-### Open Source "Full-Stack Using Python"
+## 💼 Work Experience
 
-📍 **Information Technology Institute (ITI)**  
-📅 **Nov 2024 - Present**
+### 💻 Full-Stack Developer Intern
 
-- **Courses:** Frontend & Backend Development, Database Management, API Development (REST & FastAPI), Testing, Linux Administration, Bash Scripting, Cloud Computing & AWS, DevOps, Agile & Scrum.
+**Information Technology Institute (ITI)** – Cairo, Egypt  
+🗓️ _Nov 2024 – Present_
 
-### Bachelor's Degree in Computer Science & Information Systems
+- Developed full-stack applications using **React, Node.js, Express, MongoDB**, and **Python frameworks** such as **Flask** and **Django**.
+- Built and consumed **RESTful APIs**, implemented **authentication**, and deployed applications on **AWS** and **Docker**.
+- Wrote **unit tests**, explored **ERP development with Odoo**, and participated in **Agile teams** managing **CI/CD pipelines**.
 
-📍 **October 6 University**  
-📅 **2018 – 2022**
+### 🛍️ Freelance Front-End Developer
 
-- **Courses:** Algorithms, Data Structures, Databases, Computer Networking, OS, Programming Languages, AI.
-- **Graduation Project:** Learning Management System (HTML, CSS, JavaScript, Bootstrap)
+**Remote**  
+🗓️ _2022 – 2023_
+
+- Designed and launched a **responsive e-commerce website** using **React**, **JavaScript**, **HTML**, and **CSS**.
+- Integrated **product catalog** and **shopping cart** with **React Context API**.
+- Focused on **UI/UX improvements**, boosting user engagement.
+
+---
 
 ## 📊 GitHub Stats
 
