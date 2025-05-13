@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Paula Magdy
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/paula-magdy/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=vercel)](https://portfolio-ploz.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=vercel)](https://paulamagdy.framer.website/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:paulamagdy665@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/4pAckTIlBP/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/paulamagdy665)
