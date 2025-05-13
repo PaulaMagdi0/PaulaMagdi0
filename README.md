@@ -9,7 +9,7 @@
 
 ## About Me
 
-I'm a **Software Engineer | Full-Stack Developer** specializing in the **MERN stack**, **Python frameworks (Django, Flask)**, and **ERP systems (Odoo)**. I develop high-performance, scalable web applications with responsive UIs, efficient APIs, and optimized databases. I’m experienced with **Docker, AWS**, unit testing, and CI/CD pipelines. I thrive in agile environments and am passionate about continuous learning and impactful development.
+A full-stack web developer with expertise in the MERN stack, Python frameworks (such as Django and Flask), and ERP systems like Odoo. I have developed scalable web applications featuring responsive user interfaces, RESTful APIs, and optimized databases. I also have experience with cloud platforms like AWS and Docker, and I utilize unit testing and CI/CD pipelines in my work. I embrace Agile practices and have successfully delivered production-ready solutions while collaborating with teams.
 
 📍 **Location:** Cairo, Egypt  
 📧 **Email:** [paulamagdy665@gmail.com](mailto:paulamagdy665@gmail.com)  
