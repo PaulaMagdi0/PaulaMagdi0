@@ -79,7 +79,7 @@ A full-stack web developer with expertise in the MERN stack, Python frameworks (
 **Remote**  
 🗓️ _2022 – 2023_
 
-- Designed and launched a **responsive e-commerce website** using **React**, **Context API**,  **JavaScript**,**HTML**, and **CSS**.
+- Designed and launched a **responsive e-commerce website** using **React**, **Context API**, **JavaScript**, **HTML**, and **CSS**.
 - Integrated **product catalog** and **shopping cart** with **React Context API**.
 - Focused on **UI/UX improvements**, boosting user engagement.
 
