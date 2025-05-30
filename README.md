@@ -68,7 +68,7 @@ A full-stack web developer with expertise in the MERN stack, Python frameworks (
 ### 💻 Full-Stack Developer Intern
 
 **Information Technology Institute (ITI)** – Cairo, Egypt  
-🗓️ _Nov 2024 – Present_
+🗓️ _Nov 2024 – May 2025_
 
 - Developed full-stack applications using **React, Node.js, Express, MongoDB**, and **Python frameworks** such as **Flask** and **Django**.
 - Built and consumed **RESTful APIs**, implemented **authentication**, and deployed applications on **AWS** and **Docker**.
@@ -79,7 +79,7 @@ A full-stack web developer with expertise in the MERN stack, Python frameworks (
 **Remote**  
 🗓️ _2022 – 2023_
 
-- Designed and launched a **responsive e-commerce website** using **React**, **JavaScript**, **HTML**, and **CSS**.
+- Designed and launched a **responsive e-commerce website** using **React**, **Context API**,  **JavaScript**,**HTML**, and **CSS**.
 - Integrated **product catalog** and **shopping cart** with **React Context API**.
 - Focused on **UI/UX improvements**, boosting user engagement.
 
