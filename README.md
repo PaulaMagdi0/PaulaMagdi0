@@ -11,8 +11,8 @@
 
 A full-stack web developer with expertise in the MERN stack, Python frameworks (such as Django and Flask), and ERP systems like Odoo. I have developed scalable web applications featuring responsive user interfaces, RESTful APIs, and optimized databases. I also have experience with cloud platforms, such as AWS and Docker, and utilize unit testing and CI/CD pipelines in my work. I embrace Agile practices and have successfully delivered production-ready solutions while collaborating with teams.
 
-📧 **Email:** [paulamagdy665@gmail.com](mailto:paulamagdy665@gmail.com)  
 📱 **Phone:** (+20) 127 776 7028
+📧 **Email:** [paulamagdy665@gmail.com](mailto:paulamagdy665@gmail.com)  
 📍 **Location:** Cairo, Egypt  
 
 ---
