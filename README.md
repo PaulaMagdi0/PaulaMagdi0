@@ -93,7 +93,7 @@ A full-stack web developer with expertise in the MERN stack, Python frameworks (
 
 ### 📫 Connect With Me
 
-Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/paula-magdy/) or check out my [Portfolio](https://portfolio-ploz.vercel.app/) for more!
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/paula-magdy/) or check out my [Portfolio](https://paulamagdy.framer.website/) for more!
 
 ---
 
