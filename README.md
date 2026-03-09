@@ -137,8 +137,6 @@ Full-Stack Software Engineer specializing in **Next.js/NestJS** application arch
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=PaulaMagdi0&theme=default&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulaMagdi0&layout=compact&theme=default&cache_seconds=1800&langs_count=8)
-
 ---
 
 ### 📫 Connect With Me
