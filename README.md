@@ -9,7 +9,7 @@
 
 ## About Me
 
-A full-stack web developer with expertise in the MERN stack, Python frameworks (such as Django and Flask), and ERP systems like Odoo. I have developed scalable web applications featuring responsive user interfaces, RESTful APIs, and optimised databases. I also have experience with cloud platforms, such as AWS and Docker, and utilise unit testing and CI/CD pipelines in my work. I embrace Agile practices and have successfully delivered production-ready solutions while collaborating with teams.
+Full-Stack Software Engineer specializing in **Next.js/NestJS** application architecture and **AWS cloud infrastructure**. Proven track record delivering government-grade platforms at scale — including the UAE Ministry of Industry & Advanced Technology awards platform serving 2,000+ users. Brings end-to-end ownership across frontend architecture, backend API design, PostgreSQL optimization, and container-based CI/CD pipelines. Consistently reduces latency, deployment friction, and operational overhead through disciplined engineering and testing practices.
 
 📍 **Location:** Cairo, Egypt  
 📧 **Email:** [paulamagdy665@gmail.com](mailto:paulamagdy665@gmail.com)  
@@ -21,67 +21,115 @@ A full-stack web developer with expertise in the MERN stack, Python frameworks (
 
 ### Programming Languages
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks & Libraries
+### Frontend
 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+
+### Backend
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-### Databases & Technologies
+### Databases
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo-8C3391?style=for-the-badge&logo=odoo&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-### Methodologies & Workflows
+### Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-blue?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Methodologies
 
 ![Agile](https://img.shields.io/badge/Agile-1E90FF?style=for-the-badge)
 ![Scrum](https://img.shields.io/badge/Scrum-00A676?style=for-the-badge)
-![Kanban](https://img.shields.io/badge/Kanban-FF4500?style=for-the-badge)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-blue?style=for-the-badge)
-![Unit Testing](https://img.shields.io/badge/Unit%20Testing-yellow?style=for-the-badge)
+![TDD](https://img.shields.io/badge/TDD-purple?style=for-the-badge)
 
 ---
 
 ## 💼 Work Experience
 
-### 💻 Full-Stack Developer Intern
+### 💻 Full-Stack Software Engineer
+
+**Challenge Group Company** – Cairo, Egypt  
+🗓️ _Oct 2025 – Present_
+
+- Owned end-to-end technical implementation of the **Make it in the Emirates Awards** platform (MoIAT) — a government-grade system for the **UAE Ministry of Industry & Advanced Technology**, supporting **2,000+ concurrent users**.
+- Architected **PostgreSQL** schemas using **Prisma ORM** with targeted indexing and query-tuning strategies, reducing API latency by **35%** under production traffic.
+- Built domain-driven full-stack modules using **Next.js** (frontend) and **NestJS** (backend), reducing feature rollout time by **25%** through clear architectural separation and reusable abstractions.
+- Designed and implemented **AWS infrastructure** (VPC, EC2, RDS, S3, CloudFront, IAM, Secrets Manager) and container-first deployment pipelines (Docker → ECR → ECS via CodeBuild/CodePipeline), cutting deployment time from ~20 minutes to **under 5 minutes**.
+- Implemented centralized monitoring via **AWS CloudWatch**, reducing production issue detection time by **40%**.
+- Built a full testing pyramid: unit tests (**Vitest**), component tests (**React Testing Library**), and E2E tests (**Playwright**).
+- Enforced security posture: **JWT authentication**, **RBAC authorization**, structured validation, and API hardening.
+
+### 🎓 Full-Stack Development Fellow
 
 **Information Technology Institute (ITI)** – Cairo, Egypt  
 🗓️ _Nov 2024 – Jun 2025_
 
-- Developed full-stack applications using **React, Node.js, Express, MongoDB**, and **Python frameworks** such as **Flask** and **Django**.
-- Built and consumed **RESTful APIs**, implemented **authentication**, and deployed applications on **AWS** and **Docker**.
-- Wrote **unit tests**, explored **ERP development with Odoo**, and participated in **Agile teams** managing **CI/CD pipelines**.
+- Completed a rigorous, government-sponsored engineering program equivalent to **~1,200 hours** of hands-on training in full-stack development, system design, and cloud deployment.
+- Built full-stack applications using **React, Node.js, Django, and Flask**; implemented secure RESTful APIs with authentication and role-based access control.
+- Designed relational and NoSQL schemas with normalization and indexing strategies, improving query performance by **20–30%**.
+- Containerized and deployed applications to **AWS** using **Docker** within Agile development cycles.
 
 ### 🛍️ Freelance Front-End Developer
 
 **Remote**  
-🗓️ _2022 – 2023_
+🗓️ _Oct 2022 – Oct 2024_
 
-- Designed and launched a **responsive e-commerce website** using **React**, **Context API**, **JavaScript**, **HTML**, and **CSS**.
-- Integrated **product catalog** and **shopping cart** with **React Context API**.
-- Focused on **UI/UX improvements**, boosting user engagement.
+- Delivered a production-ready **e-commerce platform** using **React** and **Context API**, reducing page load times by **20–25%**.
+- Deepened expertise in component architecture, state management, and frontend performance optimization.
+
+---
+
+## 🚀 Featured Projects
+
+### 🕌 Sabeel Mobile Application — Backend Engineer
+- Architected normalized relational data models and optimized complex SQL queries, reducing API latency by **30%** while supporting thousands of active mobile users.
+- Managed full **AWS production infrastructure** (EC2, S3, IAM, RDS), including provisioning, deployment, monitoring, and maintenance.
+- **Stack:** Laravel, PHP, MySQL, AWS (ECS, ECR, RDS, VPC, ALB, S3, CloudFront, IAM, Secrets Manager, CodeBuild, CodePipeline, CloudWatch), CI/CD
+
+### 🏆 Egyptian Schools League Platform
+- Engineered a modular **Competition Engine** covering team onboarding, scoring logic, ranking algorithms, and real-time leaderboards — reducing manual workload by **80%** and improving processing efficiency by **50%**.
+- **Stack:** Next.js, React.js, TypeScript, NestJS, PostgreSQL, Prisma ORM, Docker
+
+### ☁️ Eltanfeethi (Microsoft Azure)
+- Led **Azure infrastructure** configuration, release pipeline management, and production deployment for a client-facing application.
+- **Stack:** Microsoft Azure, Azure API Management, CI/CD
+
+### 🤖 WhatsApp AI Chatbot Automation
+- Architected and productionized a **serverless AI chatbot** integrating Amazon Lex + Twilio, automating **60%** of customer support workflows.
+- **Stack:** Python, AWS Lambda, Amazon Lex, Twilio API, AWS Secrets Manager, CloudWatch
 
 ---
 
