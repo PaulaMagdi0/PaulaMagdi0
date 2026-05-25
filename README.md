@@ -59,9 +59,9 @@ I work across the full stack and ship in **whatever the job needs** — PHP, Jav
   <tr><td>⚡ &nbsp;<b>Fun fact</b></td><td>I cut a 20-min deploy down to under 5 minutes</td></tr>
 </table>
 
-📌 **Read my engineering principles:** [How I Think About Building Software →](https://gist.github.com/PaulaMagdi0/945ea0d3062ca720bfc83306aeaf0f72)
-
 <br/>
+
+📌 **Read my engineering principles:** [How I Think About Building Software →](https://gist.github.com/PaulaMagdi0/945ea0d3062ca720bfc83306aeaf0f72)
 
 <!-- ============== HIGHLIGHTS ============== -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" /> &nbsp;Impact Highlights
@@ -81,7 +81,7 @@ I work across the full stack and ship in **whatever the job needs** — PHP, Jav
   <tr><td>🔍 Issue detection</td><td align="right"><b>−40%</b></td></tr>
 </table>
 
-📖 <a href="https://github.com/PaulaMagdi0/moiat-case-study"><b>Read the case study →</b></a>
+📖 <a href="https://github.com/PaulaMagdi0/moiat-case-study"><b>Read the case study →</b></a><br/>
 
 </td>
 <td width="50%" valign="top" align="center">
@@ -96,7 +96,7 @@ I work across the full stack and ship in **whatever the job needs** — PHP, Jav
   <tr><td>🧩 Architecture</td><td align="right"><b>Modular</b></td></tr>
 </table>
 
-📖 <a href="https://github.com/PaulaMagdi0/egyptian-schools-league-case-study"><b>Read the case study →</b></a>
+📖 <a href="https://github.com/PaulaMagdi0/egyptian-schools-league-case-study"><b>Read the case study →</b></a><br/>
 
 </td>
   </tr>
@@ -113,7 +113,7 @@ I work across the full stack and ship in **whatever the job needs** — PHP, Jav
   <tr><td>🛡️ Security</td><td align="right"><b>Hardened auth</b></td></tr>
 </table>
 
-📖 <a href="https://github.com/PaulaMagdi0/sabeel-case-study"><b>Read the case study →</b></a>
+📖 <a href="https://github.com/PaulaMagdi0/sabeel-case-study"><b>Read the case study →</b></a><br/>
 
 </td>
 <td width="50%" valign="top" align="center">
@@ -343,7 +343,7 @@ I work across the full stack and ship in **whatever the job needs** — PHP, Jav
   <img src="https://komarev.com/ghpvc/?username=PaulaMagdi0&label=Profile%20views&color=2F81F7&style=for-the-badge&labelColor=0D1117" alt="Profile views" />
 </a>
 
-<br/><br/>
+<br/>
 
 <!-- Row 1: Overall stats + top languages -->
 <table align="center">
@@ -373,13 +373,9 @@ I work across the full stack and ship in **whatever the job needs** — PHP, Jav
 
 <br/>
 
-### 🏆 Achievements
-
 <img src="https://github-profile-trophy.vercel.app/?username=PaulaMagdi0&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies" />
 
-<br/><br/>
-
-### 🐍 Contribution Calendar
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/output/github-contribution-grid-snake-dark.svg" />
