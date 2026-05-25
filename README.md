@@ -404,7 +404,3 @@ I'm open to **senior full-stack roles** (Remote / Hybrid) where I can take owner
 
 <!-- ============== FOOTER ============== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" />
-
-<div align="center">
-  <sub>⭐ <b>If you like what you see, consider following me</b> — I share work in full-stack engineering, cloud, and system design.</sub>
-</div>
