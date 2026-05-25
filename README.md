@@ -339,28 +339,53 @@ I work across the full stack and ship in **whatever the job needs** — PHP, Jav
 
 <div align="center">
 
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PaulaMagdi0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+<a href="https://github.com/PaulaMagdi0">
+  <img src="https://komarev.com/ghpvc/?username=PaulaMagdi0&label=Profile%20views&color=2F81F7&style=for-the-badge&labelColor=0D1117" alt="Profile views" />
+</a>
 
-  <br/><br/>
+<br/><br/>
 
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PaulaMagdi0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=c9d1d9&langs_count=8" />
+<!-- Row 1: Overall stats + top languages -->
+<table align="center">
+  <tr>
+    <td>
+      <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PaulaMagdi0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7&text_color=c9d1d9&include_all_commits=true&count_private=true&card_width=420" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PaulaMagdi0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=c9d1d9&langs_count=8&card_width=380" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-  <br/><br/>
+<br/>
 
-  <img src="https://streak-stats.demolab.com?user=PaulaMagdi0&theme=tokyonight&hide_border=true&background=0D1117&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" height="170" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PaulaMagdi0&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2F81F7&line=2F81F7&point=2F81F7&area=true&hide_title=true&height=170" height="170" />
+<!-- Row 2: Streak + Activity Graph -->
+<table align="center">
+  <tr>
+    <td>
+      <img height="180" src="https://streak-stats.demolab.com?user=PaulaMagdi0&theme=tokyonight&hide_border=true&background=0D1117&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" alt="Streak Stats" />
+    </td>
+    <td>
+      <img height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=PaulaMagdi0&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2F81F7&line=2F81F7&point=2F81F7&area=true&hide_title=true&height=180" alt="Activity Graph" />
+    </td>
+  </tr>
+</table>
 
-  <br/><br/>
+<br/>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=PaulaMagdi0&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
+### 🏆 Achievements
 
-  <br/><br/>
+<img src="https://github-profile-trophy.vercel.app/?username=PaulaMagdi0&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies" />
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/output/github-contribution-grid-snake.svg" />
-  </picture>
+<br/><br/>
+
+### 🐍 Contribution Calendar
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
