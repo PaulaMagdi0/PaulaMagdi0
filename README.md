@@ -2,14 +2,12 @@
 =====================================================================
   GitHub Profile README — Paula Magdy (@PaulaMagdi0)
   Drop into: github.com/PaulaMagdi0/PaulaMagdi0 (root)
-  v3 — polyglot framing, redesigned About + Impact, fixed stats
+  v4 — full-width tables, integrated Huawei Cloud icon, working stats
 =====================================================================
 -->
 
 <!--
   🔍 Hidden SEO keywords for GitHub search & recruiter sourcing tools.
-  Recruiters often use boolean search; these strings boost discoverability
-  without cluttering the visual layout.
 -->
 <!-- SEO: Full-Stack Software Engineer · PHP · Laravel · JavaScript · TypeScript · Python · Node.js · Next.js · NestJS · React · Django · Flask · AWS · Azure · Huawei Cloud · PostgreSQL · MySQL · Docker · CI/CD · Cairo Egypt · Remote · Senior Software Engineer · Backend Engineer · Cloud Engineer · DevOps · System Design -->
 
@@ -26,7 +24,6 @@
 
   <br/>
 
-  <!-- Status & quick-glance -->
   <p>
     <img src="https://img.shields.io/badge/💼_Status-Open_to_Senior_Roles-2EA043?style=flat-square&labelColor=0D1117" />
     <img src="https://img.shields.io/badge/📍_Cairo-Egypt-1F6FEB?style=flat-square&labelColor=0D1117" />
@@ -34,7 +31,6 @@
     <img src="https://komarev.com/ghpvc/?username=PaulaMagdi0&label=Profile+views&color=2F81F7&style=flat-square&labelColor=0D1117" />
   </p>
 
-  <!-- Social links -->
   <p>
     <a href="https://www.linkedin.com/in/paula-magdy/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://paulamagdy.framer.website/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
@@ -50,19 +46,18 @@
 <!-- ============== ABOUT ============== -->
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png?v8"><img height="28" src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png?v8" /></picture> &nbsp;About Me
 
-Full-Stack Software Engineer at **Challenge Group**, currently building for the **UAE Ministry of Industry & Advanced Technology**. Based in Cairo 🇪🇬.
+Full-Stack Software Engineer at **Challenge Group**, based in Cairo 🇪🇬.
 
 I work across the full stack and ship in **whatever the job needs** — PHP, JavaScript, TypeScript, Python, and more. What I optimize for is **end-to-end ownership**: database schema design, API architecture, application layers, cloud infrastructure, and CI/CD pipelines.
 
-|  |  |
-|:--|:--|
-| 🏢 **Company** | Challenge Group |
-| 🏛️ **Client** | UAE Ministry of Industry & Advanced Technology |
-| 🏗️ **Building** | Government-grade platforms · 2,000+ concurrent users |
-| ⚡ **Currently** | Cloud infrastructure & container-first CI/CD pipelines |
-| 📚 **Learning** | Distributed systems · advanced cloud patterns · system design |
-| 🎯 **Philosophy** | Architect for scale · test for confidence · ship with discipline |
-| ⚡ **Fun fact** | I cut a 20-min deploy down to under 5 minutes |
+<table width="100%">
+  <tr><td width="22%">🏢 &nbsp;<b>Company</b></td><td>Challenge Group</td></tr>
+  <tr><td>🏗️ &nbsp;<b>Building</b></td><td>Government-grade platforms · 2,000+ concurrent users</td></tr>
+  <tr><td>⚡ &nbsp;<b>Currently</b></td><td>Cloud infrastructure & container-first CI/CD pipelines</td></tr>
+  <tr><td>📚 &nbsp;<b>Learning</b></td><td>Distributed systems · advanced cloud patterns · system design</td></tr>
+  <tr><td>🎯 &nbsp;<b>Philosophy</b></td><td>Architect for scale · test for confidence · ship with discipline</td></tr>
+  <tr><td>⚡ &nbsp;<b>Fun fact</b></td><td>I cut a 20-min deploy down to under 5 minutes</td></tr>
+</table>
 
 📌 **Read my engineering principles:** [How I Think About Building Software →](https://gist.github.com/PaulaMagdi0/945ea0d3062ca720bfc83306aeaf0f72)
 
@@ -71,21 +66,21 @@ I work across the full stack and ship in **whatever the job needs** — PHP, Jav
 <!-- ============== HIGHLIGHTS ============== -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" /> &nbsp;Impact Highlights
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
 
 #### 🏛️ MoIAT — UAE Government Platform
 <sub><i>Make it in the Emirates Awards</i></sub>
 
-|  |  |
-|:--|--:|
-| 🚀 Concurrent users | **2,000+** |
-| ⚡ API latency | **−35%** |
-| 📦 Deploy time | **20 min → < 5 min** |
-| 🔍 Issue detection | **−40%** |
+<table width="100%">
+  <tr><td>🚀 Concurrent users</td><td align="right"><b>2,000+</b></td></tr>
+  <tr><td>⚡ API latency</td><td align="right"><b>−35%</b></td></tr>
+  <tr><td>📦 Deploy time</td><td align="right"><b>20 min → &lt; 5 min</b></td></tr>
+  <tr><td>🔍 Issue detection</td><td align="right"><b>−40%</b></td></tr>
+</table>
 
-📖 [**Read the case study →**](https://github.com/PaulaMagdi0/moiat-case-study)
+📖 <a href="https://github.com/PaulaMagdi0/moiat-case-study"><b>Read the case study →</b></a>
 
 </td>
 <td width="50%" valign="top">
@@ -93,14 +88,14 @@ I work across the full stack and ship in **whatever the job needs** — PHP, Jav
 #### 🏆 Egyptian Schools League
 <sub><i>Modular competition engine</i></sub>
 
-|  |  |
-|:--|--:|
-| 📉 Manual workload | **−80%** |
-| ⚙️ Processing efficiency | **+50%** |
-| 🏁 Leaderboards | **Real-time** |
-| 🧩 Architecture | **Modular** |
+<table width="100%">
+  <tr><td>📉 Manual workload</td><td align="right"><b>−80%</b></td></tr>
+  <tr><td>⚙️ Processing efficiency</td><td align="right"><b>+50%</b></td></tr>
+  <tr><td>🏁 Leaderboards</td><td align="right"><b>Real-time</b></td></tr>
+  <tr><td>🧩 Architecture</td><td align="right"><b>Modular</b></td></tr>
+</table>
 
-📖 [**Read the case study →**](https://github.com/PaulaMagdi0/egyptian-schools-league-case-study)
+📖 <a href="https://github.com/PaulaMagdi0/egyptian-schools-league-case-study"><b>Read the case study →</b></a>
 
 </td>
   </tr>
@@ -110,14 +105,14 @@ I work across the full stack and ship in **whatever the job needs** — PHP, Jav
 #### 🕌 Sabeel Mobile Backend
 <sub><i>Production mobile backend on AWS</i></sub>
 
-|  |  |
-|:--|--:|
-| ⚡ API latency | **−30%** |
-| 👥 Active users | **Thousands** |
-| ☁️ Infrastructure | **Full AWS ownership** |
-| 🛡️ Security | **Hardened auth** |
+<table width="100%">
+  <tr><td>⚡ API latency</td><td align="right"><b>−30%</b></td></tr>
+  <tr><td>👥 Active users</td><td align="right"><b>Thousands</b></td></tr>
+  <tr><td>☁️ Infrastructure</td><td align="right"><b>Full AWS ownership</b></td></tr>
+  <tr><td>🛡️ Security</td><td align="right"><b>Hardened auth</b></td></tr>
+</table>
 
-📖 [**Read the case study →**](https://github.com/PaulaMagdi0/sabeel-case-study)
+📖 <a href="https://github.com/PaulaMagdi0/sabeel-case-study"><b>Read the case study →</b></a>
 
 </td>
 <td width="50%" valign="top">
@@ -125,12 +120,12 @@ I work across the full stack and ship in **whatever the job needs** — PHP, Jav
 #### 🤖 WhatsApp AI Chatbot
 <sub><i>Serverless AI automation</i></sub>
 
-|  |  |
-|:--|--:|
-| 📉 Support workload | **−60%** |
-| 🔗 Integration | **Lex + Twilio** |
-| 📊 Observability | **CloudWatch** |
-| ⚙️ Triage | **Zero-touch** |
+<table width="100%">
+  <tr><td>📉 Support workload</td><td align="right"><b>−60%</b></td></tr>
+  <tr><td>🔗 Integration</td><td align="right"><b>Lex + Twilio</b></td></tr>
+  <tr><td>📊 Observability</td><td align="right"><b>CloudWatch</b></td></tr>
+  <tr><td>⚙️ Triage</td><td align="right"><b>Zero-touch</b></td></tr>
+</table>
 
 </td>
   </tr>
@@ -161,33 +156,75 @@ I work across the full stack and ship in **whatever the job needs** — PHP, Jav
 
 **Cloud · DevOps**
 
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,linux&theme=dark" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Huawei%20Cloud-EE2F39?style=for-the-badge&logo=huawei&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=aws,azure,huaweicloud,docker,linux&theme=dark" />
 
 </div>
 
+<br/>
+
+<div align="center">
+
 <details>
-<summary><b>🔍 Deeper stack details</b> (click to expand)</summary>
+<summary>
+  <b>📚 &nbsp;Deeper Stack Details</b> &nbsp;<sub><i>(click to expand)</i></sub>
+</summary>
 
 <br/>
 
-| Layer | Tools |
-|---|---|
-| **Frontend** | Next.js (App Router, SSR/ISR), React 18, TypeScript, Tailwind CSS, Redux Toolkit |
-| **Backend** | NestJS, Node.js, Express, Django, Flask, Laravel, REST, WebSockets |
-| **Auth & Security** | JWT, RBAC, OAuth flows, input validation, API hardening |
-| **Databases** | PostgreSQL (indexing, query tuning), MySQL, MongoDB, Prisma ORM |
-| **AWS** | EC2, ECS, ECR, RDS, Aurora, S3, CloudFront, Lambda, Lex, VPC, IAM, Secrets Manager, CodeBuild, CodePipeline, CloudWatch, Amplify |
-| **Azure** | App Services, Azure API Management, Pipelines |
-| **Huawei Cloud** | ECS, OBS, RDS, VPC — multi-cloud deployments |
-| **Testing** | Vitest, Jest, React Testing Library, Playwright (E2E) |
-| **DevOps** | Docker, CI/CD pipelines, container-first deployments, monitoring & logging |
-| **Practices** | Agile / Scrum, TDD, Domain-Driven Design, Code Reviews |
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left" width="22%">Layer</th>
+      <th align="left">Tools & Frameworks</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🎨 &nbsp;<b>Frontend</b></td>
+      <td>Next.js (App Router, SSR/ISR) · React 18 · TypeScript · Tailwind CSS · Redux Toolkit</td>
+    </tr>
+    <tr>
+      <td>⚙️ &nbsp;<b>Backend</b></td>
+      <td>NestJS · Node.js · Express · Django · Flask · Laravel · REST · WebSockets</td>
+    </tr>
+    <tr>
+      <td>🔐 &nbsp;<b>Auth & Security</b></td>
+      <td>JWT · RBAC · OAuth flows · input validation · API hardening</td>
+    </tr>
+    <tr>
+      <td>🗄️ &nbsp;<b>Databases</b></td>
+      <td>PostgreSQL (indexing, query tuning) · MySQL · MongoDB · Prisma ORM</td>
+    </tr>
+    <tr>
+      <td>☁️ &nbsp;<b>AWS</b></td>
+      <td>EC2 · ECS · ECR · RDS · Aurora · S3 · CloudFront · Lambda · Lex · VPC · IAM · Secrets Manager · CodeBuild · CodePipeline · CloudWatch · Amplify</td>
+    </tr>
+    <tr>
+      <td>🟦 &nbsp;<b>Azure</b></td>
+      <td>App Services · Azure API Management · Pipelines</td>
+    </tr>
+    <tr>
+      <td>🟥 &nbsp;<b>Huawei Cloud</b></td>
+      <td>ECS · OBS · RDS · VPC — multi-cloud deployments</td>
+    </tr>
+    <tr>
+      <td>🧪 &nbsp;<b>Testing</b></td>
+      <td>Vitest · Jest · React Testing Library · Playwright (E2E)</td>
+    </tr>
+    <tr>
+      <td>🐳 &nbsp;<b>DevOps</b></td>
+      <td>Docker · CI/CD pipelines · container-first deployments · monitoring & logging</td>
+    </tr>
+    <tr>
+      <td>🧠 &nbsp;<b>Practices</b></td>
+      <td>Agile / Scrum · TDD · Domain-Driven Design · Code Reviews</td>
+    </tr>
+  </tbody>
+</table>
 
 </details>
+
+</div>
 
 <br/>
 
@@ -230,7 +267,7 @@ I work across the full stack and ship in **whatever the job needs** — PHP, Jav
 <!-- ============== PROJECTS ============== -->
 ## 🚀 Featured Projects
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🕌 Sabeel Mobile App</h3>
@@ -300,8 +337,8 @@ I work across the full stack and ship in **whatever the job needs** — PHP, Jav
 
 <div align="center">
 
-  <img height="170" src="https://github-readme-stats.hackclub.dev/api?username=PaulaMagdi0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=PaulaMagdi0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=c9d1d9&langs_count=8" />
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PaulaMagdi0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PaulaMagdi0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=c9d1d9&langs_count=8" />
 
   <br/>
 
