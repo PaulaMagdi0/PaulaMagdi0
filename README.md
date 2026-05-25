@@ -28,7 +28,6 @@
     <img src="https://img.shields.io/badge/💼_Status-Open_to_Senior_Roles-2EA043?style=flat-square&labelColor=0D1117" />
     <img src="https://img.shields.io/badge/📍_Cairo-Egypt-1F6FEB?style=flat-square&labelColor=0D1117" />
     <img src="https://img.shields.io/badge/🌐_Work-Remote_%2F_Hybrid-8957E5?style=flat-square&labelColor=0D1117" />
-    <img src="https://komarev.com/ghpvc/?username=PaulaMagdi0&label=Profile+views&color=2F81F7&style=flat-square&labelColor=0D1117" />
   </p>
 
   <p>
@@ -70,12 +69,12 @@ I work across the full stack and ship in **whatever the job needs** — PHP, Jav
 <table width="100%">
   <tr><td colspan="2"><img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/spacer.svg" width="1100" height="0" alt="" /></td></tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
 
 #### 🏛️ MoIAT — UAE Government Platform
 <sub><i>Make it in the Emirates Awards</i></sub>
 
-<table width="100%">
+<table align="center">
   <tr><td>🚀 Concurrent users</td><td align="right"><b>2,000+</b></td></tr>
   <tr><td>⚡ API latency</td><td align="right"><b>−35%</b></td></tr>
   <tr><td>📦 Deploy time</td><td align="right"><b>20 min → &lt; 5 min</b></td></tr>
@@ -85,12 +84,12 @@ I work across the full stack and ship in **whatever the job needs** — PHP, Jav
 📖 <a href="https://github.com/PaulaMagdi0/moiat-case-study"><b>Read the case study →</b></a>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 #### 🏆 Egyptian Schools League
 <sub><i>Modular competition engine</i></sub>
 
-<table width="100%">
+<table align="center">
   <tr><td>📉 Manual workload</td><td align="right"><b>−80%</b></td></tr>
   <tr><td>⚙️ Processing efficiency</td><td align="right"><b>+50%</b></td></tr>
   <tr><td>🏁 Leaderboards</td><td align="right"><b>Real-time</b></td></tr>
@@ -102,12 +101,12 @@ I work across the full stack and ship in **whatever the job needs** — PHP, Jav
 </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
 
 #### 🕌 Sabeel Mobile Backend
 <sub><i>Production mobile backend on AWS</i></sub>
 
-<table width="100%">
+<table align="center">
   <tr><td>⚡ API latency</td><td align="right"><b>−30%</b></td></tr>
   <tr><td>👥 Active users</td><td align="right"><b>Thousands</b></td></tr>
   <tr><td>☁️ Infrastructure</td><td align="right"><b>Full AWS ownership</b></td></tr>
@@ -117,12 +116,12 @@ I work across the full stack and ship in **whatever the job needs** — PHP, Jav
 📖 <a href="https://github.com/PaulaMagdi0/sabeel-case-study"><b>Read the case study →</b></a>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 #### 🤖 WhatsApp AI Chatbot
 <sub><i>Serverless AI automation</i></sub>
 
-<table width="100%">
+<table align="center">
   <tr><td>📉 Support workload</td><td align="right"><b>−60%</b></td></tr>
   <tr><td>🔗 Integration</td><td align="right"><b>Lex + Twilio</b></td></tr>
   <tr><td>📊 Observability</td><td align="right"><b>CloudWatch</b></td></tr>
@@ -341,9 +340,12 @@ I work across the full stack and ship in **whatever the job needs** — PHP, Jav
 <div align="center">
 
   <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PaulaMagdi0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+
+  <br/><br/>
+
   <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PaulaMagdi0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=c9d1d9&langs_count=8" />
 
-  <br/>
+  <br/><br/>
 
   <img src="https://streak-stats.demolab.com?user=PaulaMagdi0&theme=tokyonight&hide_border=true&background=0D1117&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" height="170" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PaulaMagdi0&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2F81F7&line=2F81F7&point=2F81F7&area=true&hide_title=true&height=170" height="170" />
