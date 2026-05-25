@@ -337,12 +337,6 @@ I work across the full stack and ship in **whatever the job needs** — PHP, Jav
 
 <div align="center">
 
-<a href="https://github.com/PaulaMagdi0">
-  <img src="https://komarev.com/ghpvc/?username=PaulaMagdi0&label=Profile%20views&color=2F81F7&style=for-the-badge&labelColor=0D1117" alt="Profile views" />
-</a>
-
-<br/><br/>
-
 <!-- Row 1: Overall stats + top languages -->
 <table align="center">
   <tr>
