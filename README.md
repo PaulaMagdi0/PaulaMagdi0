@@ -2,7 +2,7 @@
 =====================================================================
   GitHub Profile README — Paula Magdy (@PaulaMagdi0)
   Drop into: github.com/PaulaMagdi0/PaulaMagdi0 (root)
-  v2 — adds SEO keywords, gist hook, status, blog hook
+  v3 — polyglot framing, redesigned About + Impact, fixed stats
 =====================================================================
 -->
 
@@ -11,17 +11,17 @@
   Recruiters often use boolean search; these strings boost discoverability
   without cluttering the visual layout.
 -->
-<!-- SEO: Full-Stack Software Engineer · Next.js · NestJS · TypeScript · Node.js · AWS · PostgreSQL · Prisma · Docker · CI/CD · Cairo Egypt · Remote · Senior Software Engineer · Backend Engineer · Cloud Engineer · DevOps · React · System Design -->
+<!-- SEO: Full-Stack Software Engineer · PHP · Laravel · JavaScript · TypeScript · Python · Node.js · Next.js · NestJS · React · Django · Flask · AWS · Azure · Huawei Cloud · PostgreSQL · MySQL · Docker · CI/CD · Cairo Egypt · Remote · Senior Software Engineer · Backend Engineer · Cloud Engineer · DevOps · System Design -->
 
 <!-- ============== HERO BANNER ============== -->
 <div align="center">
 
   <a href="https://paulamagdy.framer.website/">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Paula%20Magdy&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%E2%80%A2%20Next.js%20%2F%20NestJS%20%2F%20AWS&descAlignY=60&descSize=18" alt="Paula Magdy — Full-Stack Software Engineer" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Paula%20Magdy&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%E2%80%A2%20Building%20Production%20Systems%20at%20Scale&descAlignY=60&descSize=18" alt="Paula Magdy — Full-Stack Software Engineer" />
   </a>
 
   <a href="https://github.com/PaulaMagdi0">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=720&lines=Building+government-grade+platforms+at+scale.;Next.js+%E2%80%A2+NestJS+%E2%80%A2+PostgreSQL+%E2%80%A2+AWS;Shipping+production+systems+for+2%2C000%2B+users.;Obsessed+with+clean+architecture+%26+CI%2FCD." alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=720&lines=Building+government-grade+platforms+at+scale.;Polyglot%3A+PHP+%E2%80%A2+JavaScript+%E2%80%A2+TypeScript+%E2%80%A2+Python;Shipping+production+systems+for+2%2C000%2B+users.;Obsessed+with+clean+architecture+%26+CI%2FCD." alt="Typing intro" />
   </a>
 
   <br/>
@@ -50,21 +50,19 @@
 <!-- ============== ABOUT ============== -->
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png?v8"><img height="28" src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png?v8" /></picture> &nbsp;About Me
 
-```ts
-const paula = {
-  role:        "Full-Stack Software Engineer",
-  company:     "Challenge Group — building for UAE Ministry of Industry & Advanced Technology",
-  location:    "Cairo, Egypt 🇪🇬",
-  focus:       ["Next.js", "NestJS", "PostgreSQL", "AWS"],
-  building:    "Government-grade platforms serving 2,000+ concurrent users",
-  philosophy:  "Architect for scale, test for confidence, ship with discipline.",
-  currently:   "Designing AWS infrastructure & container-first CI/CD pipelines",
-  learning:    ["Distributed systems", "Advanced AWS patterns", "System design"],
-  funFact:     "I cut a 20-min deploy down to under 5 minutes ⚡"
-};
-```
+Full-Stack Software Engineer at **Challenge Group**, currently building for the **UAE Ministry of Industry & Advanced Technology**. Based in Cairo 🇪🇬.
 
-> 🎯 **What I do best:** I take ownership of complex full-stack systems end-to-end — from PostgreSQL schema design and NestJS API architecture, through Next.js application layers, all the way to AWS infrastructure and CI/CD pipelines.
+I work across the full stack and ship in **whatever the job needs** — PHP, JavaScript, TypeScript, Python, and more. What I optimize for is **end-to-end ownership**: database schema design, API architecture, application layers, cloud infrastructure, and CI/CD pipelines.
+
+|  |  |
+|:--|:--|
+| 🏢 **Company** | Challenge Group |
+| 🏛️ **Client** | UAE Ministry of Industry & Advanced Technology |
+| 🏗️ **Building** | Government-grade platforms · 2,000+ concurrent users |
+| ⚡ **Currently** | Cloud infrastructure & container-first CI/CD pipelines |
+| 📚 **Learning** | Distributed systems · advanced cloud patterns · system design |
+| 🎯 **Philosophy** | Architect for scale · test for confidence · ship with discipline |
+| ⚡ **Fun fact** | I cut a 20-min deploy down to under 5 minutes |
 
 📌 **Read my engineering principles:** [How I Think About Building Software →](https://gist.github.com/PaulaMagdi0/945ea0d3062ca720bfc83306aeaf0f72)
 
@@ -77,61 +75,66 @@ const paula = {
   <tr>
     <td width="50%" valign="top">
 
-### 🏛️ MoIAT — UAE Government Platform
-- **2,000+** concurrent users
-- **−35%** API latency
-- **−75%** deployment time (20 min → < 5 min)
-- **−40%** issue detection time
+#### 🏛️ MoIAT — UAE Government Platform
+<sub><i>Make it in the Emirates Awards</i></sub>
 
-[📖 Read the case study →](https://github.com/PaulaMagdi0/moiat-case-study)
-    </td>
-    <td width="50%" valign="top">
+|  |  |
+|:--|--:|
+| 🚀 Concurrent users | **2,000+** |
+| ⚡ API latency | **−35%** |
+| 📦 Deploy time | **20 min → < 5 min** |
+| 🔍 Issue detection | **−40%** |
 
-### 🏆 Egyptian Schools League
-- **−80%** manual admin workload
-- **+50%** processing efficiency
-- Real-time leaderboards & scoring engine
-- Modular competition architecture
+📖 [**Read the case study →**](https://github.com/PaulaMagdi0/moiat-case-study)
 
-[📖 Read the case study →](https://github.com/PaulaMagdi0/egyptian-schools-league-case-study)
-    </td>
+</td>
+<td width="50%" valign="top">
+
+#### 🏆 Egyptian Schools League
+<sub><i>Modular competition engine</i></sub>
+
+|  |  |
+|:--|--:|
+| 📉 Manual workload | **−80%** |
+| ⚙️ Processing efficiency | **+50%** |
+| 🏁 Leaderboards | **Real-time** |
+| 🧩 Architecture | **Modular** |
+
+📖 [**Read the case study →**](https://github.com/PaulaMagdi0/egyptian-schools-league-case-study)
+
+</td>
   </tr>
   <tr>
     <td width="50%" valign="top">
 
-### 🕌 Sabeel Mobile Backend
-- **−30%** API latency
-- Thousands of active mobile users
-- Full AWS production infra ownership
-- Hardened auth & security layers
+#### 🕌 Sabeel Mobile Backend
+<sub><i>Production mobile backend on AWS</i></sub>
 
-[📖 Read the case study →](https://github.com/PaulaMagdi0/sabeel-case-study)
-    </td>
-    <td width="50%" valign="top">
+|  |  |
+|:--|--:|
+| ⚡ API latency | **−30%** |
+| 👥 Active users | **Thousands** |
+| ☁️ Infrastructure | **Full AWS ownership** |
+| 🛡️ Security | **Hardened auth** |
 
-### 🤖 WhatsApp AI Chatbot
-- **−60%** manual support workload
-- Serverless Lex + Twilio integration
-- Production-grade observability
-- Zero-touch automated triage
-    </td>
+📖 [**Read the case study →**](https://github.com/PaulaMagdi0/sabeel-case-study)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🤖 WhatsApp AI Chatbot
+<sub><i>Serverless AI automation</i></sub>
+
+|  |  |
+|:--|--:|
+| 📉 Support workload | **−60%** |
+| 🔗 Integration | **Lex + Twilio** |
+| 📊 Observability | **CloudWatch** |
+| ⚙️ Triage | **Zero-touch** |
+
+</td>
   </tr>
 </table>
-
-<br/>
-
-<!-- ============== WRITING ============== -->
-## ✍️ Recent Writing
-
-<!--
-  Once you publish blog posts, list them here with date + 1-line summary.
-  Example structure (uncomment when ready):
--->
-
-- 📝 **[How I Cut Our Production Deploy from 20 Minutes to Under 5](#)** — *Coming soon* · Lessons from rebuilding the MoIAT pipeline with Docker → ECR → ECS
-- 📝 **[Indexing PostgreSQL for Real Traffic: A 35% Latency Story](#)** — *Coming soon* · The query-tuning patterns that actually moved the needle
-
-> ✏️ More writing on engineering, AWS, and system design coming soon. Subscribe via [LinkedIn](https://www.linkedin.com/in/paula-magdy/).
 
 <br/>
 
@@ -142,7 +145,7 @@ const paula = {
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=typescript,javascript,python,php,cpp,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python,php,cpp,html,css&theme=dark" />
 
 **Frontend**
 
@@ -156,9 +159,13 @@ const paula = {
 
 <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,prisma&theme=dark" />
 
-**Cloud · DevOps · Tools**
+**Cloud · DevOps**
 
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,git,github,vscode,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,linux&theme=dark" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Huawei%20Cloud-EE2F39?style=for-the-badge&logo=huawei&logoColor=white" />
 
 </div>
 
@@ -175,6 +182,7 @@ const paula = {
 | **Databases** | PostgreSQL (indexing, query tuning), MySQL, MongoDB, Prisma ORM |
 | **AWS** | EC2, ECS, ECR, RDS, Aurora, S3, CloudFront, Lambda, Lex, VPC, IAM, Secrets Manager, CodeBuild, CodePipeline, CloudWatch, Amplify |
 | **Azure** | App Services, Azure API Management, Pipelines |
+| **Huawei Cloud** | ECS, OBS, RDS, VPC — multi-cloud deployments |
 | **Testing** | Vitest, Jest, React Testing Library, Playwright (E2E) |
 | **DevOps** | Docker, CI/CD pipelines, container-first deployments, monitoring & logging |
 | **Practices** | Agile / Scrum, TDD, Domain-Driven Design, Code Reviews |
@@ -233,11 +241,10 @@ const paula = {
         <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
       </p>
       <ul>
-        <li>Normalized data models + optimized SQL → <b>−30% API latency</b></li>
-        <li>Full AWS production infra ownership (EC2, RDS, S3, IAM)</li>
-        <li>Secure auth, validation & backend hardening</li>
+        <li>Normalized data models → <b>−30%</b> API latency</li>
+        <li>Full AWS production infra ownership</li>
+        <li>Secure auth, validation &amp; hardening</li>
       </ul>
-      <p align="center"><a href="https://github.com/PaulaMagdi0/sabeel-case-study"><b>📖 Read case study</b></a></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🏆 Egyptian Schools League</h3>
@@ -248,17 +255,16 @@ const paula = {
         <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
       </p>
       <ul>
-        <li>Team onboarding, scoring & ranking algorithms</li>
-        <li>Real-time leaderboards → <b>+50% processing efficiency</b></li>
+        <li>Team onboarding &amp; ranking algorithms</li>
+        <li>Real-time leaderboards → <b>+50%</b> efficiency</li>
         <li><b>−80%</b> manual administrative workload</li>
       </ul>
-      <p align="center"><a href="https://github.com/PaulaMagdi0/egyptian-schools-league-case-study"><b>📖 Read case study</b></a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">☁️ Eltanfeethi (Azure)</h3>
-      <p align="center"><i>Enterprise Azure deployment & release management</i></p>
+      <p align="center"><i>Enterprise Azure deployment &amp; release management</i></p>
       <p align="center">
         <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
         <img src="https://img.shields.io/badge/API_Management-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
@@ -266,8 +272,8 @@ const paula = {
       </p>
       <ul>
         <li>Azure infrastructure configuration</li>
-        <li>Release pipeline management</li>
-        <li>Production deployment for client-facing app</li>
+        <li>Release pipeline &amp; API management</li>
+        <li>Production deployment for client app</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -279,7 +285,7 @@ const paula = {
         <img src="https://img.shields.io/badge/Amazon_Lex-FF9900?style=flat-square&logo=amazon&logoColor=white" />
       </p>
       <ul>
-        <li>Lex + Twilio integration on AWS Lambda</li>
+        <li>Lex + Twilio on AWS Lambda</li>
         <li><b>−60%</b> manual support workload</li>
         <li>Secrets Manager + CloudWatch observability</li>
       </ul>
@@ -294,8 +300,8 @@ const paula = {
 
 <div align="center">
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PaulaMagdi0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulaMagdi0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=c9d1d9&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.hackclub.dev/api?username=PaulaMagdi0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=PaulaMagdi0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=c9d1d9&langs_count=8" />
 
   <br/>
 
@@ -322,7 +328,7 @@ const paula = {
 
 <div align="center">
 
-I'm open to **senior full-stack roles** (Remote / Hybrid) where I can take ownership of complex systems end-to-end. Especially interested in: **Next.js + NestJS** product teams, **AWS-heavy infrastructure** work, and **government / enterprise** platforms at scale.
+I'm open to **senior full-stack roles** (Remote / Hybrid) where I can take ownership of complex systems end-to-end. Multi-stack and comfortable across **AWS / Azure / Huawei Cloud** — especially interested in **government / enterprise** platforms at scale.
 
 <br/>
 
@@ -344,5 +350,5 @@ I'm open to **senior full-stack roles** (Remote / Hybrid) where I can take owner
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" />
 
 <div align="center">
-  <sub>⭐ <b>If you like what you see, consider following me</b> — I share work in full-stack engineering, AWS, and system design.</sub>
+  <sub>⭐ <b>If you like what you see, consider following me</b> — I share work in full-stack engineering, cloud, and system design.</sub>
 </div>
