@@ -156,7 +156,7 @@ I work across the full stack and ship in **whatever the job needs** — PHP, Jav
 
 **Cloud · DevOps**
 
-<img src="https://skillicons.dev/icons?i=aws,azure,huaweicloud,docker,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,azure&theme=dark" /> <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/huaweicloud.svg" width="48" height="48" alt="Huawei Cloud" /> <img src="https://skillicons.dev/icons?i=docker,linux&theme=dark" />
 
 </div>
 
