@@ -66,7 +66,7 @@ const paula = {
 
 > 🎯 **What I do best:** I take ownership of complex full-stack systems end-to-end — from PostgreSQL schema design and NestJS API architecture, through Next.js application layers, all the way to AWS infrastructure and CI/CD pipelines.
 
-📌 **Read my engineering principles:** [How I Think About Building Software →](https://gist.github.com/PaulaMagdi0)
+📌 **Read my engineering principles:** [How I Think About Building Software →](https://gist.github.com/PaulaMagdi0/945ea0d3062ca720bfc83306aeaf0f72)
 
 <br/>
 
