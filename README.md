@@ -51,6 +51,7 @@ Full-Stack Software Engineer at **Challenge Group**, based in Cairo 🇪🇬.
 I work across the full stack and ship in **whatever the job needs** — PHP, JavaScript, TypeScript, Python, and more. What I optimize for is **end-to-end ownership**: database schema design, API architecture, application layers, cloud infrastructure, and CI/CD pipelines.
 
 <table width="100%">
+  <tr><td colspan="2"><img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/spacer.svg" width="1100" height="0" alt="" /></td></tr>
   <tr><td width="22%">🏢 &nbsp;<b>Company</b></td><td>Challenge Group</td></tr>
   <tr><td>🏗️ &nbsp;<b>Building</b></td><td>Government-grade platforms · 2,000+ concurrent users</td></tr>
   <tr><td>⚡ &nbsp;<b>Currently</b></td><td>Cloud infrastructure & container-first CI/CD pipelines</td></tr>
@@ -67,6 +68,7 @@ I work across the full stack and ship in **whatever the job needs** — PHP, Jav
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" /> &nbsp;Impact Highlights
 
 <table width="100%">
+  <tr><td colspan="2"><img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/spacer.svg" width="1100" height="0" alt="" /></td></tr>
   <tr>
     <td width="50%" valign="top">
 
@@ -268,6 +270,7 @@ I work across the full stack and ship in **whatever the job needs** — PHP, Jav
 ## 🚀 Featured Projects
 
 <table width="100%">
+  <tr><td colspan="2"><img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/spacer.svg" width="1100" height="0" alt="" /></td></tr>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🕌 Sabeel Mobile App</h3>
@@ -343,6 +346,7 @@ I work across the full stack and ship in **whatever the job needs** — PHP, Jav
   <br/>
 
   <img src="https://streak-stats.demolab.com?user=PaulaMagdi0&theme=tokyonight&hide_border=true&background=0D1117&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" height="170" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PaulaMagdi0&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2F81F7&line=2F81F7&point=2F81F7&area=true&hide_title=true&height=170" height="170" />
 
   <br/><br/>
 
