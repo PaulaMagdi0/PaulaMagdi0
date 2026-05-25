@@ -61,6 +61,8 @@ I work across the full stack and ship in **whatever the job needs** — PHP, Jav
 
 📌 **Read my engineering principles:** [How I Think About Building Software →](https://gist.github.com/PaulaMagdi0/945ea0d3062ca720bfc83306aeaf0f72)
 
+<br/>
+
 <!-- ============== HIGHLIGHTS ============== -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" /> &nbsp;Impact Highlights
 
