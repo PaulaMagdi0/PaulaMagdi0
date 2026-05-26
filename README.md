@@ -52,7 +52,6 @@ Full-Stack Software Engineer building and scaling modern software systems using 
   <tr><td width="22%">🏢 &nbsp;<b>Company</b></td><td>Challenge Group</td></tr>
   <tr><td>🏗️ &nbsp;<b>Building</b></td><td>Government-grade platforms · 2,000+ concurrent users</td></tr>
   <tr><td>⚡ &nbsp;<b>Currently</b></td><td>Cloud infrastructure & container-first CI/CD pipelines</td></tr>
-  <tr><td>📚 &nbsp;<b>Learning</b></td><td>Distributed systems · advanced cloud patterns · system design</td></tr>
   <tr><td>🎯 &nbsp;<b>Philosophy</b></td><td>Architect for scale · test for confidence · ship with discipline</td></tr>
   <tr><td>⚡ &nbsp;<b>Fun fact</b></td><td>I cut a 20-min deploy down to under 5 minutes</td></tr>
 </table>
