@@ -365,10 +365,6 @@ Full-Stack Software Engineer building and scaling modern software systems using 
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=PaulaMagdi0&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies" />
-
-<br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/output/github-contribution-grid-snake.svg" />
@@ -384,7 +380,7 @@ Full-Stack Software Engineer building and scaling modern software systems using 
 
 <div align="center">
 
-I'm open to **senior full-stack roles** (Remote / Hybrid) where I can take ownership of complex systems end-to-end. Multi-stack and comfortable across **AWS / Azure / Huawei Cloud** — especially interested in **government / enterprise** platforms at scale.
+I'm open to **senior full-stack roles** (Remote / Hybrid) where I can take ownership of complex systems end-to-end. Multi-stack and comfortable across **AWS / Azure / Huawei Cloud** — especially interested in **government/enterprise** platforms at scale.
 
 <br/>
 
