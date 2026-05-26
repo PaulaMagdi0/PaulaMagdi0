@@ -45,9 +45,7 @@
 <!-- ============== ABOUT ============== -->
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png?v8"><img height="28" src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png?v8" /></picture> &nbsp;About Me
 
-Full-Stack Software Engineer at **Challenge Group**, based in Cairo 🇪🇬.
-
-I work across the full stack and ship in **whatever the job needs** — PHP, JavaScript, TypeScript, Python, and more. What I optimize for is **end-to-end ownership**: database schema design, API architecture, application layers, cloud infrastructure, and CI/CD pipelines.
+Full-Stack Software Engineer building and scaling modern software systems using technologies such as PHP, JavaScript, TypeScript, Python, and cloud platforms. My work spans database design, backend APIs, frontend applications, infrastructure, and CI/CD pipelines. I focus on delivering scalable, reliable, and maintainable solutions while taking ownership of the full development lifecycle — from architecture to deployment.
 
 <table width="100%">
   <tr><td colspan="2"><img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/spacer.svg" width="1100" height="0" alt="" /></td></tr>
