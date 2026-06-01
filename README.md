@@ -14,7 +14,7 @@
 <!-- ============== HERO BANNER ============== -->
 <div align="center">
 
-  <a href="https://paulamagdy.framer.website/">
+  <a href="https://paulamagdy.com">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Paula%20Magdy&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%E2%80%A2%20Building%20Production%20Systems%20at%20Scale&descAlignY=60&descSize=18" alt="Paula Magdy — Full-Stack Software Engineer" />
   </a>
 
@@ -32,7 +32,7 @@
 
   <p>
     <a href="https://www.linkedin.com/in/paula-magdy/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://paulamagdy.framer.website/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+    <a href="https://paulamagdy.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
     <a href="mailto:paulamagdy665@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://leetcode.com/u/4pAckTIlBP/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
     <a href="https://www.hackerrank.com/profile/paulamagdy665"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
@@ -389,7 +389,7 @@ I'm open to **senior full-stack roles** (Remote / Hybrid) where I can take owner
 <a href="mailto:paulamagdy665@gmail.com">
   <img src="https://img.shields.io/badge/📧_Email-paulamagdy665@gmail.com-EA4335?style=for-the-badge&labelColor=0D1117" />
 </a>
-<a href="https://paulamagdy.framer.website/">
+<a href="https://paulamagdy.com">
   <img src="https://img.shields.io/badge/🌐_Visit-Portfolio-2F81F7?style=for-the-badge&labelColor=0D1117" />
 </a>
 
