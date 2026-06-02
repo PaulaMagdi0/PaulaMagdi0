@@ -45,7 +45,7 @@
 <!-- ============== ABOUT ============== -->
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png?v8"><img height="28" src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png?v8" /></picture> &nbsp;About Me
 
-Full-Stack Software Engineer building and scaling modern software systems using technologies such as PHP, JavaScript, TypeScript, Python, and cloud platforms. My work spans database design, backend APIs, frontend applications, infrastructure, and CI/CD pipelines. I focus on delivering scalable, reliable, and maintainable solutions while taking ownership of the full development lifecycle — from architecture to deployment.
+Full-Stack Software Engineer with experience designing, building, and scaling modern software systems across web, cloud, and backend platforms. Skilled in JavaScript, TypeScript, Python, PHP, cloud infrastructure, and DevOps practices. Experienced in delivering reliable, maintainable, and scalable solutions throughout the entire software lifecycle—from architecture and development to deployment and optimization.
 
 <table width="100%">
   <tr><td colspan="2"><img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/spacer.svg" width="1100" height="0" alt="" /></td></tr>
