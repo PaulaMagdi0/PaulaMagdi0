@@ -25,7 +25,7 @@
   <br/>
 
   <p>
-    <img src="https://img.shields.io/badge/💼_Status-Open_to_Senior_Roles-2EA043?style=flat-square&labelColor=0D1117" />
+    <img src="https://img.shields.io/badge/💼_Status-Open_to_New_Opportunities-2EA043?style=flat-square&labelColor=0D1117" />
     <img src="https://img.shields.io/badge/📍_Cairo-Egypt-1F6FEB?style=flat-square&labelColor=0D1117" />
     <img src="https://img.shields.io/badge/🌐_Work-Remote_%2F_Hybrid-8957E5?style=flat-square&labelColor=0D1117" />
   </p>
