@@ -9,7 +9,7 @@
 <!--
   🔍 Hidden SEO keywords for GitHub search & recruiter sourcing tools.
 -->
-<!-- SEO: Full-Stack Software Engineer · PHP · Laravel · JavaScript · TypeScript · Python · Node.js · Next.js · NestJS · React · Django · Flask · AWS · Azure · Huawei Cloud · PostgreSQL · MySQL · Docker · CI/CD · Cairo Egypt · Remote · Senior Software Engineer · Backend Engineer · Cloud Engineer · DevOps · System Design -->
+<!-- SEO: Full-Stack Software Engineer · PHP · Laravel · Filament · Livewire · JavaScript · TypeScript · Python · Node.js · Next.js · NestJS · React · Django · Flask · AWS · AWS Certified Solutions Architect · Azure · Huawei Cloud · PostgreSQL · MySQL · Redis · Prisma · Docker · Kubernetes · CI/CD · Sanctum · Reverb · WebSockets · Paymob · Twilio · Cairo Egypt · Remote · Senior Software Engineer · Backend Engineer · Cloud Engineer · DevOps · System Design -->
 
 <!-- ============== HERO BANNER ============== -->
 <div align="center">
@@ -19,7 +19,7 @@
   </a>
 
   <a href="https://github.com/PaulaMagdi0">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=720&lines=Building+government-grade+platforms+at+scale.;Polyglot%3A+PHP+%E2%80%A2+JavaScript+%E2%80%A2+TypeScript+%E2%80%A2+Python;Shipping+production+systems+for+2%2C000%2B+users.;Obsessed+with+clean+architecture+%26+CI%2FCD." alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=720&lines=Building+government-grade+platforms+at+scale.;Polyglot%3A+PHP+%E2%80%A2+JavaScript+%E2%80%A2+TypeScript+%E2%80%A2+Python;Shipping+production+systems+for+5%2C000%2B+users.;AWS+Certified+Solutions+Architect.;Obsessed+with+clean+architecture+%26+CI%2FCD." alt="Typing intro" />
   </a>
 
   <br/>
@@ -45,13 +45,13 @@
 <!-- ============== ABOUT ============== -->
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png?v8"><img height="28" src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png?v8" /></picture> &nbsp;About Me
 
-Full-Stack Software Engineer with experience designing, building, and scaling modern software systems across web, cloud, and backend platforms. Skilled in JavaScript, TypeScript, Python, PHP, cloud infrastructure, and DevOps practices. Experienced in delivering reliable, maintainable, and scalable solutions throughout the entire software lifecycle—from architecture and development to deployment and optimization.
+Full-Stack Software Engineer who ships production systems end-to-end across multiple stacks — **TypeScript** (Next.js / NestJS), **PHP** (Laravel), and **Python** (Django / Flask) — on **AWS**, **Azure**, and **Huawei Cloud**. **AWS Certified Solutions Architect** who owns delivery from data modeling and API architecture through CI/CD, monitoring, and security — shipping government-grade and enterprise platforms that serve thousands of concurrent users.
 
 <table width="100%">
   <tr><td colspan="2"><img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/spacer.svg" width="1100" height="0" alt="" /></td></tr>
-  <tr><td width="22%">🏢 &nbsp;<b>Company</b></td><td>Challenge Group</td></tr>
-  <tr><td>🏗️ &nbsp;<b>Building</b></td><td>Building and scaling modern software systems</td></tr>
-  <tr><td>⚡ &nbsp;<b>Currently</b></td><td>Cloud infrastructure & container-first CI/CD pipelines</td></tr>
+  <tr><td width="22%">🏢 &nbsp;<b>Company</b></td><td>Challenge Group — government & enterprise platforms across Egypt, KSA & the UAE</td></tr>
+  <tr><td>🏗️ &nbsp;<b>Building</b></td><td>Government-grade platforms end-to-end — schema → API → CI/CD → monitoring</td></tr>
+  <tr><td>🎓 &nbsp;<b>Certified</b></td><td>AWS Solutions Architect · AWS Cloud Practitioner · Huawei HCCDP / HCCDA</td></tr>
   <tr><td>🎯 &nbsp;<b>Philosophy</b></td><td>Architect for scale · test for confidence · ship with discipline</td></tr>
   <tr><td>⚡ &nbsp;<b>Fun fact</b></td><td>I cut a 20-min deploy down to under 5 minutes</td></tr>
 </table>
@@ -72,7 +72,7 @@ Full-Stack Software Engineer with experience designing, building, and scaling mo
 <sub><i>Make it in the Emirates Awards</i></sub>
 
 <table align="center">
-  <tr><td>🚀 Concurrent users</td><td align="right"><b>2,000+</b></td></tr>
+  <tr><td>🚀 Concurrent users</td><td align="right"><b>5,000+</b></td></tr>
   <tr><td>⚡ API latency</td><td align="right"><b>−35%</b></td></tr>
   <tr><td>📦 Deploy time</td><td align="right"><b>20 min → &lt; 5 min</b></td></tr>
   <tr><td>🔍 Issue detection</td><td align="right"><b>−40%</b></td></tr>
@@ -154,7 +154,7 @@ Full-Stack Software Engineer with experience designing, building, and scaling mo
 
 **Cloud · DevOps**
 
-<img src="https://skillicons.dev/icons?i=aws,azure&theme=dark" /> <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/huaweicloud.svg" width="48" height="48" alt="Huawei Cloud" /> <img src="https://skillicons.dev/icons?i=docker,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,azure&theme=dark" /> <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/huaweicloud.svg" width="48" height="48" alt="Huawei Cloud" /> <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux&theme=dark" />
 
 </div>
 
@@ -179,19 +179,19 @@ Full-Stack Software Engineer with experience designing, building, and scaling mo
   <tbody>
     <tr>
       <td>🎨 &nbsp;<b>Frontend</b></td>
-      <td>Next.js (App Router, SSR/ISR) · React 18 · TypeScript · Tailwind CSS · Redux Toolkit</td>
+      <td>Next.js (App Router, SSR/ISR) · React 18 · TypeScript · Tailwind CSS · Bootstrap · Redux Toolkit · Livewire · Filament · Blade</td>
     </tr>
     <tr>
       <td>⚙️ &nbsp;<b>Backend</b></td>
-      <td>NestJS · Node.js · Express · Django · Flask · Laravel · REST · WebSockets</td>
+      <td>NestJS · Node.js · Express · Django · Flask · Laravel · REST · WebSockets · Reverb · Serverless</td>
     </tr>
     <tr>
       <td>🔐 &nbsp;<b>Auth & Security</b></td>
-      <td>JWT · RBAC · OAuth flows · input validation · API hardening</td>
+      <td>JWT · RBAC · Sanctum · OAuth flows · input validation · API hardening</td>
     </tr>
     <tr>
       <td>🗄️ &nbsp;<b>Databases</b></td>
-      <td>PostgreSQL (indexing, query tuning) · MySQL · MongoDB · Prisma ORM</td>
+      <td>PostgreSQL (indexing, query tuning) · MySQL · MongoDB · Redis · Prisma ORM · Eloquent ORM</td>
     </tr>
     <tr>
       <td>☁️ &nbsp;<b>AWS</b></td>
@@ -207,11 +207,15 @@ Full-Stack Software Engineer with experience designing, building, and scaling mo
     </tr>
     <tr>
       <td>🧪 &nbsp;<b>Testing</b></td>
-      <td>Vitest · Jest · React Testing Library · Playwright (E2E)</td>
+      <td>Vitest · Jest · React Testing Library · Playwright (E2E) · Pest · PHPUnit</td>
     </tr>
     <tr>
       <td>🐳 &nbsp;<b>DevOps</b></td>
-      <td>Docker · CI/CD pipelines · container-first deployments · monitoring & logging</td>
+      <td>Docker · Kubernetes · CI/CD pipelines · container-first deployments · monitoring & logging</td>
+    </tr>
+    <tr>
+      <td>🔌 &nbsp;<b>Integrations</b></td>
+      <td>Twilio (voice/SMS) · Paymob payments · Firebase Cloud Messaging (FCM) · Amazon Lex</td>
     </tr>
     <tr>
       <td>🧠 &nbsp;<b>Practices</b></td>
@@ -232,33 +236,55 @@ Full-Stack Software Engineer with experience designing, building, and scaling mo
 ### <img src="https://img.shields.io/badge/Current-2EA043?style=flat-square" /> &nbsp;Full-Stack Software Engineer · *Challenge Group*
 🗓️ **Oct 2025 — Present** · Cairo, Egypt
 
-> Owning the **Make it in the Emirates Awards** platform end-to-end for the **UAE Ministry of Industry & Advanced Technology**.
+> Owning the **Make it in the Emirates Awards** platform end-to-end for the **UAE Ministry of Industry & Advanced Technology** — **5,000+ concurrent users**.
 
-- 🏗️ Architected **PostgreSQL + Prisma** schemas with targeted indexing → **−35% API latency**
-- 🧱 Built domain-driven modules in **Next.js + NestJS** → **−25% feature rollout time**
-- ☁️ Designed **AWS infrastructure** (VPC, EC2, RDS, S3, CloudFront, IAM) & Docker → ECR → ECS pipelines → deploy time **20 min → < 5 min**
-- 📊 Centralized monitoring via **CloudWatch** → **−40% issue detection time**
-- 🛡️ Hardened security: **JWT**, **RBAC**, structured validation, enterprise-grade API posture
-- 🧪 Built the full testing pyramid: **Vitest** + **React Testing Library** + **Playwright E2E**
+- 🏗️ Architected **PostgreSQL + Prisma** schemas with targeted indexing & query tuning → **−35% API latency** under production load
+- 🧱 Built domain-driven modules in **Next.js + NestJS** from schema to deploy
+- ☁️ Designed **AWS infrastructure** (VPC, EC2, RDS, S3, CloudFront, IAM, Secrets Manager) & container-first Docker → ECR → ECS pipelines (CodeBuild/CodePipeline) → deploy time **20 min → < 5 min**
+- 🛡️ Hardened security: **JWT**, **RBAC**, structured validation, API hardening + **CloudWatch** monitoring & structured logging
+- 🔍 Built SEO via **SSR**, structured metadata & schema markup, plus a full test pyramid (**Vitest** · **React Testing Library** · **Playwright E2E**)
+- 🧩 Also delivering across the stack: **LawMate** (Laravel legal-services platform), **Egyptian Schools League**, **Sabeel**, **Eltanfeethi** (Azure) & a serverless **WhatsApp AI chatbot**
 
 <br/>
 
-### 🎓 Full-Stack Development Fellow · *Information Technology Institute (ITI)*
+### 🎓 Full-Stack Engineer · *Information Technology Institute (ITI)*
 🗓️ **Nov 2024 — Jun 2025** · Cairo, Egypt
 
 > Government-sponsored intensive — **~1,200 hours** of full-stack & cloud engineering.
 
-- Built full-stack apps across **React / Node.js / Django / Flask**
-- Designed relational + NoSQL schemas → **+20–30% query performance**
-- Containerized & deployed to **AWS** within Agile cycles
+- Built full-stack apps across two backend ecosystems — **Node.js / Express** and **Python (Django / Flask)** — with **React** front-ends, secure REST APIs & RBAC
+- Modeled relational (SQL) + NoSQL schemas with normalization & indexing to keep queries efficient at scale
+- Containerized with **Docker** & deployed to **AWS**, applying system-design fundamentals in Agile sprints
 
 <br/>
 
 ### 🛍️ Freelance Front-End Developer
-🗓️ **Oct 2022 — Oct 2024** · Remote
+🗓️ **Oct 2022 — Oct 2024** · Cairo, Egypt
 
-- Delivered production e-commerce platform (React + Context API) → **−20–25% page load time**
-- Deepened component architecture, state management & performance optimization
+- Shipped a production e-commerce storefront in **React** — responsive, cross-device UI wired to REST APIs for catalog & cart
+- Architected a reusable component library with centralized state via **Context API**, removing prop-drilling as the catalog grew
+- Improved rendering performance & cut page-load times through render optimization and efficient asset loading
+
+<br/>
+
+<!-- ============== CERTIFICATIONS & EDUCATION ============== -->
+## 🎓 Certifications & Education
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AWS_Certified-Solutions_Architect_–_Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=232F3E" />
+<img src="https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=232F3E" />
+<img src="https://img.shields.io/badge/Huawei-HCCDP_Solution_Architectures-FF0000?style=flat-square&logo=huawei&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Huawei-HCCDA_Tech_Essentials-FF0000?style=flat-square&logo=huawei&logoColor=white&labelColor=0D1117" />
+
+</div>
+
+<table width="100%">
+  <tr><td colspan="2"><img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/spacer.svg" width="1100" height="0" alt="" /></td></tr>
+  <tr><td width="22%">📜 &nbsp;<b>AWS</b></td><td>Certified Solutions Architect – Associate (SAA-C03) · Certified Cloud Practitioner</td></tr>
+  <tr><td>📜 &nbsp;<b>Huawei Cloud</b></td><td>HCCDP – Solution Architectures (Professional) · HCCDA – Tech Essentials</td></tr>
+  <tr><td>🎓 &nbsp;<b>B.Sc.</b></td><td>Computer Science & Information Systems — October 6 University, Giza · 2018–2022<br/><sub>Graduation project (Grade A): Learning Management System — Node.js · Express · MongoDB</sub></td></tr>
+</table>
 
 <br/>
 
@@ -269,19 +295,37 @@ Full-Stack Software Engineer with experience designing, building, and scaling mo
   <tr><td colspan="2"><img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/spacer.svg" width="1100" height="0" alt="" /></td></tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🕌 Sabeel Mobile App</h3>
-      <p align="center"><i>Production backend for thousands of users</i></p>
+      <h3 align="center">🏛️ Make it in the Emirates Awards</h3>
+      <p align="center"><i>Government-grade awards platform — UAE MoIAT</i></p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
       </p>
       <ul>
-        <li>Normalized data models → <b>−30%</b> API latency</li>
-        <li>Full AWS production infra ownership</li>
-        <li>Secure auth, validation &amp; hardening</li>
+        <li><b>5,000+</b> concurrent users, schema → deploy ownership</li>
+        <li>Query tuning → <b>−35%</b> API latency</li>
+        <li>Docker → ECR → ECS → deploy <b>20m → &lt; 5m</b></li>
       </ul>
     </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⚖️ LawMate — Legal Services</h3>
+      <p align="center"><i>API-first legal marketplace with in-app wallet</i></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Filament-F59E0B?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+      </p>
+      <ul>
+        <li>Request-and-bid workflow + escalation handling</li>
+        <li>In-app wallet — <b>Paymob</b> payments &amp; withdrawals</li>
+        <li>Real-time chat, voice/SMS (Reverb, Twilio), bilingual EN/AR</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🏆 Egyptian Schools League</h3>
       <p align="center"><i>Modular competition engine with live leaderboards</i></p>
@@ -296,6 +340,20 @@ Full-Stack Software Engineer with experience designing, building, and scaling mo
         <li><b>−80%</b> manual administrative workload</li>
       </ul>
     </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🕌 Sabeel Mobile Backend</h3>
+      <p align="center"><i>Production backend for a high-traffic mobile product</i></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+      </p>
+      <ul>
+        <li>Hardened API surface → <b>−30%</b> latency</li>
+        <li>Full AWS production infra (EC2, S3, IAM, RDS)</li>
+        <li>Behind a CI/CD release pipeline</li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
@@ -307,9 +365,9 @@ Full-Stack Software Engineer with experience designing, building, and scaling mo
         <img src="https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
       </p>
       <ul>
-        <li>Azure infrastructure configuration</li>
-        <li>Release pipeline &amp; API management</li>
-        <li>Production deployment for client app</li>
+        <li>Led Azure infrastructure &amp; API Management</li>
+        <li>Owned CI/CD release pipelines</li>
+        <li>Carried the app through to production</li>
       </ul>
     </td>
     <td width="50%" valign="top">
