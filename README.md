@@ -56,8 +56,6 @@ Full-Stack Software Engineer who ships production systems end-to-end across mult
   <tr><td>⚡ &nbsp;<b>Fun fact</b></td><td>I cut a 20-min deploy down to under 5 minutes</td></tr>
 </table>
 
-📌 **Read my engineering principles:** [How I Think About Building Software →](https://gist.github.com/PaulaMagdi0/945ea0d3062ca720bfc83306aeaf0f72)
-
 <br/>
 
 <!-- ============== TECH STACK ============== -->
