@@ -25,17 +25,17 @@
   <br/>
 
   <p>
-    <img src="https://img.shields.io/badge/💼_Status-Open_to_New_Opportunities-2EA043?style=flat-square&labelColor=0D1117" />
-    <img src="https://img.shields.io/badge/📍_Cairo-Egypt-1F6FEB?style=flat-square&labelColor=0D1117" />
-    <img src="https://img.shields.io/badge/🌐_Work-Remote_%2F_Hybrid-8957E5?style=flat-square&labelColor=0D1117" />
+    <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/status-open.svg" />
+    <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/location-cairo.svg" />
+    <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/work-remote.svg" />
   </p>
 
   <p>
-    <a href="https://www.linkedin.com/in/paula-magdy/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://paulamagdy.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-    <a href="mailto:paulamagdy665@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://leetcode.com/u/4pAckTIlBP/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-    <a href="https://www.hackerrank.com/profile/paulamagdy665"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/paula-magdy/"><img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/linkedin.svg" /></a>
+    <a href="https://paulamagdy.com"><img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/portfolio.svg" /></a>
+    <a href="mailto:paulamagdy665@gmail.com"><img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/email.svg" /></a>
+    <a href="https://leetcode.com/u/4pAckTIlBP/"><img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/leetcode.svg" /></a>
+    <a href="https://www.hackerrank.com/profile/paulamagdy665"><img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/hackerrank.svg" /></a>
   </p>
 
 </div>
@@ -233,7 +233,7 @@ Full-Stack Software Engineer who ships production systems end-to-end across mult
 <!-- ============== EXPERIENCE ============== -->
 ## 💼 Experience
 
-### <img src="https://img.shields.io/badge/Current-2EA043?style=flat-square" /> &nbsp;Full-Stack Software Engineer · *Challenge Group*
+### <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/current.svg" /> &nbsp;Full-Stack Software Engineer · *Challenge Group*
 🗓️ **Oct 2025 — Present** · Cairo, Egypt
 
 > Owning the **Make it in the Emirates Awards** platform end-to-end for the **UAE Ministry of Industry & Advanced Technology** — **5,000+ concurrent users**.
@@ -272,10 +272,10 @@ Full-Stack Software Engineer who ships production systems end-to-end across mult
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AWS_Certified-Solutions_Architect_–_Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=232F3E" />
-<img src="https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=232F3E" />
-<img src="https://img.shields.io/badge/Huawei-HCCDP_Solution_Architectures-FF0000?style=flat-square&logo=huawei&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Huawei-HCCDA_Tech_Essentials-FF0000?style=flat-square&logo=huawei&logoColor=white&labelColor=0D1117" />
+<img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/cert-aws-saa.svg" />
+<img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/cert-aws-ccp.svg" />
+<img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/cert-hccdp.svg" />
+<img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/cert-hccda.svg" />
 
 </div>
 
@@ -298,10 +298,10 @@ Full-Stack Software Engineer who ships production systems end-to-end across mult
       <h3 align="center">🏛️ Make it in the Emirates Awards</h3>
       <p align="center"><i>Government-grade awards platform — UAE MoIAT</i></p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+        <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/tech-nextjs.svg" />
+        <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/tech-nestjs.svg" />
+        <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/tech-postgresql.svg" />
+        <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/tech-aws.svg" />
       </p>
       <ul>
         <li><b>5,000+</b> concurrent users, schema → deploy ownership</li>
@@ -313,10 +313,10 @@ Full-Stack Software Engineer who ships production systems end-to-end across mult
       <h3 align="center">⚖️ LawMate — Legal Services</h3>
       <p align="center"><i>API-first legal marketplace with in-app wallet</i></p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-        <img src="https://img.shields.io/badge/Filament-F59E0B?style=flat-square&logo=laravel&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+        <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/tech-laravel.svg" />
+        <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/tech-filament.svg" />
+        <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/tech-mysql.svg" />
+        <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/tech-redis.svg" />
       </p>
       <ul>
         <li>Request-and-bid workflow + escalation handling</li>
@@ -330,9 +330,9 @@ Full-Stack Software Engineer who ships production systems end-to-end across mult
       <h3 align="center">🏆 Egyptian Schools League</h3>
       <p align="center"><i>Modular competition engine with live leaderboards</i></p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/tech-nextjs.svg" />
+        <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/tech-nestjs.svg" />
+        <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/tech-postgresql.svg" />
       </p>
       <ul>
         <li>Team onboarding &amp; ranking algorithms</li>
@@ -344,9 +344,9 @@ Full-Stack Software Engineer who ships production systems end-to-end across mult
       <h3 align="center">🕌 Sabeel Mobile Backend</h3>
       <p align="center"><i>Production backend for a high-traffic mobile product</i></p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+        <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/tech-laravel.svg" />
+        <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/tech-mysql.svg" />
+        <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/tech-aws.svg" />
       </p>
       <ul>
         <li>Hardened API surface → <b>−30%</b> latency</li>
@@ -360,9 +360,9 @@ Full-Stack Software Engineer who ships production systems end-to-end across mult
       <h3 align="center">☁️ Eltanfeethi (Azure)</h3>
       <p align="center"><i>Enterprise Azure deployment &amp; release management</i></p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
-        <img src="https://img.shields.io/badge/API_Management-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
-        <img src="https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+        <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/tech-azure.svg" />
+        <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/tech-api-mgmt.svg" />
+        <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/tech-cicd.svg" />
       </p>
       <ul>
         <li>Led Azure infrastructure &amp; API Management</li>
@@ -374,9 +374,9 @@ Full-Stack Software Engineer who ships production systems end-to-end across mult
       <h3 align="center">🤖 WhatsApp AI Chatbot</h3>
       <p align="center"><i>Serverless AI automation for customer support</i></p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white" />
-        <img src="https://img.shields.io/badge/Amazon_Lex-FF9900?style=flat-square&logo=amazon&logoColor=white" />
+        <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/tech-python.svg" />
+        <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/tech-aws-lambda.svg" />
+        <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/tech-amazon-lex.svg" />
       </p>
       <ul>
         <li>Lex + Twilio on AWS Lambda</li>
@@ -442,13 +442,13 @@ I'm open to **senior full-stack roles** (Remote / Hybrid) where I can take owner
 <br/>
 
 <a href="https://www.linkedin.com/in/paula-magdy/">
-  <img src="https://img.shields.io/badge/💬_Message_me_on-LinkedIn-0A66C2?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/cta-linkedin.svg" />
 </a>
 <a href="mailto:paulamagdy665@gmail.com">
-  <img src="https://img.shields.io/badge/📧_Email-paulamagdy665@gmail.com-EA4335?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/cta-email.svg" />
 </a>
 <a href="https://paulamagdy.com">
-  <img src="https://img.shields.io/badge/🌐_Visit-Portfolio-2F81F7?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/cta-portfolio.svg" />
 </a>
 
 </div>
