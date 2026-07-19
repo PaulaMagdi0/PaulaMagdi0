@@ -49,7 +49,7 @@ Full-Stack Software Engineer who ships production systems end-to-end across mult
 
 <table width="100%">
   <tr><td colspan="2"><img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/spacer.svg" width="1100" height="0" alt="" /></td></tr>
-  <tr><td width="22%">🏢 &nbsp;<b>Company</b></td><td>Challenge Group — government & enterprise platforms across Egypt, KSA & the UAE</td></tr>
+  <tr><td width="22%">🏢 &nbsp;<b>Company</b></td><td>Challenge Group</td></tr>
   <tr><td>🏗️ &nbsp;<b>Building</b></td><td>Government-grade platforms end-to-end — schema → API → CI/CD → monitoring</td></tr>
   <tr><td>🎓 &nbsp;<b>Certified</b></td><td>AWS Solutions Architect · AWS Cloud Practitioner · Huawei HCCDP / HCCDA</td></tr>
   <tr><td>🎯 &nbsp;<b>Philosophy</b></td><td>Architect for scale · test for confidence · ship with discipline</td></tr>
@@ -60,79 +60,8 @@ Full-Stack Software Engineer who ships production systems end-to-end across mult
 
 <br/>
 
-<!-- ============== HIGHLIGHTS ============== -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" /> &nbsp;Impact Highlights
-
-<table width="100%">
-  <tr><td colspan="2"><img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/spacer.svg" width="1100" height="0" alt="" /></td></tr>
-  <tr>
-    <td width="50%" valign="top" align="center">
-
-#### 🏛️ MoIAT — UAE Government Platform
-<sub><i>Make it in the Emirates Awards</i></sub>
-
-<table align="center">
-  <tr><td>🚀 Concurrent users</td><td align="right"><b>5,000+</b></td></tr>
-  <tr><td>⚡ API latency</td><td align="right"><b>−35%</b></td></tr>
-  <tr><td>📦 Deploy time</td><td align="right"><b>20 min → &lt; 5 min</b></td></tr>
-  <tr><td>🔍 Issue detection</td><td align="right"><b>−40%</b></td></tr>
-</table>
-
-📖 <a href="https://github.com/PaulaMagdi0/moiat-case-study"><b>Read the case study →</b></a>
-
-</td>
-<td width="50%" valign="top" align="center">
-
-#### 🏆 Egyptian Schools League
-<sub><i>Modular competition engine</i></sub>
-
-<table align="center">
-  <tr><td>📉 Manual workload</td><td align="right"><b>−80%</b></td></tr>
-  <tr><td>⚙️ Processing efficiency</td><td align="right"><b>+50%</b></td></tr>
-  <tr><td>🏁 Leaderboards</td><td align="right"><b>Real-time</b></td></tr>
-  <tr><td>🧩 Architecture</td><td align="right"><b>Modular</b></td></tr>
-</table>
-
-📖 <a href="https://github.com/PaulaMagdi0/egyptian-schools-league-case-study"><b>Read the case study →</b></a>
-
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="center">
-
-#### 🕌 Sabeel Mobile Backend
-<sub><i>Production mobile backend on AWS</i></sub>
-
-<table align="center">
-  <tr><td>⚡ API latency</td><td align="right"><b>−30%</b></td></tr>
-  <tr><td>👥 Active users</td><td align="right"><b>Thousands</b></td></tr>
-  <tr><td>☁️ Infrastructure</td><td align="right"><b>Full AWS ownership</b></td></tr>
-  <tr><td>🛡️ Security</td><td align="right"><b>Hardened auth</b></td></tr>
-</table>
-
-📖 <a href="https://github.com/PaulaMagdi0/sabeel-case-study"><b>Read the case study →</b></a>
-
-</td>
-<td width="50%" valign="top" align="center">
-
-#### 🤖 WhatsApp AI Chatbot
-<sub><i>Serverless AI automation</i></sub>
-
-<table align="center">
-  <tr><td>📉 Support workload</td><td align="right"><b>−60%</b></td></tr>
-  <tr><td>🔗 Integration</td><td align="right"><b>Lex + Twilio</b></td></tr>
-  <tr><td>📊 Observability</td><td align="right"><b>CloudWatch</b></td></tr>
-  <tr><td>⚙️ Triage</td><td align="right"><b>Zero-touch</b></td></tr>
-</table>
-
-</td>
-  </tr>
-</table>
-
-<br/>
-
 <!-- ============== TECH STACK ============== -->
-## <img src="https://media.giphy.com/media/W5fMcuc0XJiKAFKVwm/giphy.gif" width="32" /> &nbsp;Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -288,107 +217,6 @@ Full-Stack Software Engineer who ships production systems end-to-end across mult
 
 <br/>
 
-<!-- ============== PROJECTS ============== -->
-## 🚀 Featured Projects
-
-<table width="100%">
-  <tr><td colspan="2"><img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/spacer.svg" width="1100" height="0" alt="" /></td></tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🏛️ Make it in the Emirates Awards</h3>
-      <p align="center"><i>Government-grade awards platform — UAE MoIAT</i></p>
-      <p align="center">
-        <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/tech-nextjs.svg" />
-        <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/tech-nestjs.svg" />
-        <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/tech-postgresql.svg" />
-        <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/tech-aws.svg" />
-      </p>
-      <ul>
-        <li><b>5,000+</b> concurrent users, schema → deploy ownership</li>
-        <li>Query tuning → <b>−35%</b> API latency</li>
-        <li>Docker → ECR → ECS → deploy <b>20m → &lt; 5m</b></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">⚖️ LawMate — Legal Services</h3>
-      <p align="center"><i>API-first legal marketplace with in-app wallet</i></p>
-      <p align="center">
-        <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/tech-laravel.svg" />
-        <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/tech-filament.svg" />
-        <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/tech-mysql.svg" />
-        <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/tech-redis.svg" />
-      </p>
-      <ul>
-        <li>Request-and-bid workflow + escalation handling</li>
-        <li>In-app wallet — <b>Paymob</b> payments &amp; withdrawals</li>
-        <li>Real-time chat, voice/SMS (Reverb, Twilio), bilingual EN/AR</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🏆 Egyptian Schools League</h3>
-      <p align="center"><i>Modular competition engine with live leaderboards</i></p>
-      <p align="center">
-        <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/tech-nextjs.svg" />
-        <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/tech-nestjs.svg" />
-        <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/tech-postgresql.svg" />
-      </p>
-      <ul>
-        <li>Team onboarding &amp; ranking algorithms</li>
-        <li>Real-time leaderboards → <b>+50%</b> efficiency</li>
-        <li><b>−80%</b> manual administrative workload</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🕌 Sabeel Mobile Backend</h3>
-      <p align="center"><i>Production backend for a high-traffic mobile product</i></p>
-      <p align="center">
-        <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/tech-laravel.svg" />
-        <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/tech-mysql.svg" />
-        <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/tech-aws.svg" />
-      </p>
-      <ul>
-        <li>Hardened API surface → <b>−30%</b> latency</li>
-        <li>Full AWS production infra (EC2, S3, IAM, RDS)</li>
-        <li>Behind a CI/CD release pipeline</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">☁️ Eltanfeethi (Azure)</h3>
-      <p align="center"><i>Enterprise Azure deployment &amp; release management</i></p>
-      <p align="center">
-        <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/tech-azure.svg" />
-        <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/tech-api-mgmt.svg" />
-        <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/tech-cicd.svg" />
-      </p>
-      <ul>
-        <li>Led Azure infrastructure &amp; API Management</li>
-        <li>Owned CI/CD release pipelines</li>
-        <li>Carried the app through to production</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 WhatsApp AI Chatbot</h3>
-      <p align="center"><i>Serverless AI automation for customer support</i></p>
-      <p align="center">
-        <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/tech-python.svg" />
-        <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/tech-aws-lambda.svg" />
-        <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/tech-amazon-lex.svg" />
-      </p>
-      <ul>
-        <li>Lex + Twilio on AWS Lambda</li>
-        <li><b>−60%</b> manual support workload</li>
-        <li>Secrets Manager + CloudWatch observability</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
 <!-- ============== GITHUB STATS ============== -->
 ## 📊 GitHub Stats
 
@@ -437,7 +265,7 @@ Full-Stack Software Engineer who ships production systems end-to-end across mult
 
 <div align="center">
 
-I'm open to **senior full-stack roles** (Remote / Hybrid) where I can take ownership of complex systems end-to-end. Multi-stack and comfortable across **AWS / Azure / Huawei Cloud** — especially interested in **government/enterprise** platforms at scale.
+Feel free to reach out — always happy to connect.
 
 <br/>
 
