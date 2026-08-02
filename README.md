@@ -45,7 +45,7 @@
 <!-- ============== ABOUT ============== -->
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png?v8"><img height="28" src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png?v8" /></picture> &nbsp;About Me
 
-Full-Stack Software Engineer who ships production systems end-to-end across multiple stacks — **TypeScript** (Next.js / NestJS), **PHP** (Laravel), and **Python** (Django / Flask) — on **AWS**, **Azure**, and **Huawei Cloud**. **AWS Certified Solutions Architect** who owns delivery from data modeling and API architecture through CI/CD, monitoring, and security — shipping government-grade and enterprise platforms that serve thousands of concurrent users.
+Full-Stack Software Engineer with production experience across TypeScript (Next.js/NestJS), PHP (Laravel), and Python (Django/Flask) on AWS, Azure, and Huawei Cloud. AWS Certified Solutions Architect contributing across data modeling, API design, CI/CD, monitoring, and security, with a track record of measurable gains in API performance and deployment speed.
 
 <table width="100%">
   <tr><td colspan="2"><img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/spacer.svg" width="1100" height="0" alt="" /></td></tr>
