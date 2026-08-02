@@ -50,7 +50,6 @@ Full-Stack Software Engineer who ships production systems end-to-end across mult
 <table width="100%">
   <tr><td colspan="2"><img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/spacer.svg" width="1100" height="0" alt="" /></td></tr>
   <tr><td width="22%">🏢 &nbsp;<b>Company</b></td><td>Challenge Group</td></tr>
-  <tr><td>🏗️ &nbsp;<b>Building</b></td><td>Government-grade platforms end-to-end — schema → API → CI/CD → monitoring</td></tr>
   <tr><td>🎓 &nbsp;<b>Certified</b></td><td>AWS Solutions Architect · AWS Cloud Practitioner · Huawei HCCDP / HCCDA</td></tr>
   <tr><td>🎯 &nbsp;<b>Philosophy</b></td><td>Architect for scale · test for confidence · ship with discipline</td></tr>
   <tr><td>⚡ &nbsp;<b>Fun fact</b></td><td>I cut a 20-min deploy down to under 5 minutes</td></tr>
