@@ -162,8 +162,6 @@ Full-Stack Software Engineer who ships production systems end-to-end across mult
 ### <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/current.svg" /> &nbsp;Full-Stack Software Engineer · *Challenge Group*
 🗓️ **Oct 2025 — Present** · Cairo, Egypt
 
-> Owning the **Make it in the Emirates Awards** platform end-to-end for the **UAE Ministry of Industry & Advanced Technology** — **5,000+ concurrent users**.
-
 - 🏗️ Architected **PostgreSQL + Prisma** schemas with targeted indexing & query tuning → **−35% API latency** under production load
 - 🧱 Built domain-driven modules in **Next.js + NestJS** from schema to deploy
 - ☁️ Designed **AWS infrastructure** (VPC, EC2, RDS, S3, CloudFront, IAM, Secrets Manager) & container-first Docker → ECR → ECS pipelines (CodeBuild/CodePipeline) → deploy time **20 min → < 5 min**
