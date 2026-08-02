@@ -167,7 +167,6 @@ Full-Stack Software Engineer who ships production systems end-to-end across mult
 - ☁️ Designed **AWS infrastructure** (VPC, EC2, RDS, S3, CloudFront, IAM, Secrets Manager) & container-first Docker → ECR → ECS pipelines (CodeBuild/CodePipeline) → deploy time **20 min → < 5 min**
 - 🛡️ Hardened security: **JWT**, **RBAC**, structured validation, API hardening + **CloudWatch** monitoring & structured logging
 - 🔍 Built SEO via **SSR**, structured metadata & schema markup, plus a full test pyramid (**Vitest** · **React Testing Library** · **Playwright E2E**)
-- 🧩 Also delivering across the stack: **LawMate** (Laravel legal-services platform), **Egyptian Schools League**, **Sabeel**, **Eltanfeethi** (Azure) & a serverless **WhatsApp AI chatbot**
 
 <br/>
 
