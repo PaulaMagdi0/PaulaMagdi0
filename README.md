@@ -18,10 +18,6 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Paula%20Magdy&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%E2%80%A2%20Building%20Production%20Systems%20at%20Scale&descAlignY=60&descSize=18" alt="Paula Magdy — Full-Stack Software Engineer" />
   </a>
 
-  <a href="https://github.com/PaulaMagdi0">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=720&lines=Building+government-grade+platforms+at+scale.;Polyglot%3A+PHP+%E2%80%A2+JavaScript+%E2%80%A2+TypeScript+%E2%80%A2+Python;Shipping+production+systems+for+5%2C000%2B+users.;AWS+Certified+Solutions+Architect.;Obsessed+with+clean+architecture+%26+CI%2FCD." alt="Typing intro" />
-  </a>
-
   <br/>
 
   <p>
