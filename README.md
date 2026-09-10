@@ -173,8 +173,6 @@ Full-Stack Software Engineer with production experience across TypeScript (Next.
 ### 🎓 Full-Stack Engineer · *Information Technology Institute (ITI)*
 🗓️ **Oct 2024 — Jun 2025** · Cairo, Egypt
 
-> Government-sponsored intensive — **~1,200 hours** of full-stack & cloud engineering.
-
 - Built full-stack apps across two backend ecosystems — **Node.js / Express** and **Python (Django / Flask)** — with **React** front-ends, secure REST APIs & RBAC
 - Modeled relational (SQL) + NoSQL schemas with normalization & indexing to keep queries efficient at scale
 - Containerized with **Docker** & deployed to **AWS**, applying system-design fundamentals in Agile sprints
