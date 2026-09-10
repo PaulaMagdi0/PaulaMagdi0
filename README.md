@@ -160,7 +160,7 @@ Full-Stack Software Engineer with production experience across TypeScript (Next.
 ## 💼 Experience
 
 ### <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/current.svg" /> &nbsp;Full-Stack Software Engineer · *Challenge Group*
-🗓️ **Oct 2025 — Present** · Cairo, Egypt
+🗓️ **Jun 2025 — Present** · Cairo, Egypt
 
 - 🏗️ Architected **PostgreSQL + Prisma** schemas with targeted indexing & query tuning → **−35% API latency** under production load
 - 🧱 Built domain-driven modules in **Next.js + NestJS** from schema to deploy
@@ -171,7 +171,7 @@ Full-Stack Software Engineer with production experience across TypeScript (Next.
 <br/>
 
 ### 🎓 Full-Stack Engineer · *Information Technology Institute (ITI)*
-🗓️ **Nov 2024 — Jun 2025** · Cairo, Egypt
+🗓️ **Oct 2024 — Jun 2025** · Cairo, Egypt
 
 > Government-sponsored intensive — **~1,200 hours** of full-stack & cloud engineering.
 
@@ -182,7 +182,7 @@ Full-Stack Software Engineer with production experience across TypeScript (Next.
 <br/>
 
 ### 🛍️ Freelance Front-End Developer
-🗓️ **Oct 2022 — Oct 2024** · Cairo, Egypt
+🗓️ **Oct 2023 — Oct 2024** · Cairo, Egypt
 
 - Shipped a production e-commerce storefront in **React** — responsive, cross-device UI wired to REST APIs for catalog & cart
 - Architected a reusable component library with centralized state via **Context API**, removing prop-drilling as the catalog grew
