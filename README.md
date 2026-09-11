@@ -2,42 +2,40 @@
 =====================================================================
   GitHub Profile README — Paula Magdy (@PaulaMagdi0)
   Drop into: github.com/PaulaMagdi0/PaulaMagdi0 (root)
-  v5 — aligned with paulamagdy.com + résumé (2026-09): team-scoped
-       experience bullets, stack trimmed to what is actually used,
-       Featured section, verifiable cert links, dead widgets removed
+  v4 — full-width tables, integrated Huawei Cloud icon, working stats
 =====================================================================
 -->
 
 <!--
   🔍 Hidden SEO keywords for GitHub search & recruiter sourcing tools.
 -->
-<!-- SEO: Full-Stack Software Engineer · PHP · Laravel · Filament · Livewire · JavaScript · TypeScript · Python · Node.js · Next.js · NestJS · React · Django · Flask · AWS · AWS Certified Solutions Architect · Azure · Huawei Cloud · PostgreSQL · MySQL · Redis · Prisma · Docker · CI/CD · Sanctum · Reverb · WebSockets · Paymob · Twilio · Amazon Lex · Cairo Egypt · Remote · Backend Engineer · Cloud Engineer · DevOps · System Design -->
+<!-- SEO: Full-Stack Software Engineer · PHP · Laravel · Filament · Livewire · JavaScript · TypeScript · Python · Node.js · Next.js · NestJS · React · Django · Flask · AWS · AWS Certified Solutions Architect · Azure · Huawei Cloud · PostgreSQL · MySQL · Redis · Prisma · Docker · Kubernetes · CI/CD · Sanctum · Reverb · WebSockets · Paymob · Twilio · Cairo Egypt · Remote · Senior Software Engineer · Backend Engineer · Cloud Engineer · DevOps · System Design -->
 
 <!-- ============== HERO BANNER ============== -->
 <div align="center">
 
   <a href="https://paulamagdy.com">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Paula%20Magdy&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%E2%80%A2%20TypeScript%20%C2%B7%20PHP%20%C2%B7%20Python%20on%20AWS%2C%20Azure%20%26%20Huawei%20Cloud&descAlignY=60&descSize=18" alt="Paula Magdy — Full-Stack Software Engineer" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Paula%20Magdy&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%E2%80%A2%20Building%20Production%20Systems%20at%20Scale&descAlignY=60&descSize=18" alt="Paula Magdy — Full-Stack Software Engineer" />
   </a>
 
   <a href="https://github.com/PaulaMagdi0">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=720&lines=Polyglot%3A+PHP+%E2%80%A2+JavaScript+%E2%80%A2+TypeScript+%E2%80%A2+Python;Backend+services+for+platforms+serving+5%2C000%2B+concurrent+users.;AWS+Certified+Solutions+Architect+%E2%80%93+Associate.;Cut+API+latency+~35%25+and+deploy+time+from+20+to+under+5+minutes." alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=720&lines=Polyglot%3A+PHP+%E2%80%A2+JavaScript+%E2%80%A2+TypeScript+%E2%80%A2+Python;Shipping+production+systems+for+5%2C000%2B+users.;AWS+Certified+Solutions+Architect.;Obsessed+with+clean+architecture+%26+CI%2FCD." alt="Typing intro" />
   </a>
 
   <br/>
 
   <p>
-    <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/status-open.svg" alt="Open to full-stack roles" />
-    <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/location-cairo.svg" alt="Cairo, Egypt" />
-    <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/work-remote.svg" alt="Open to remote work" />
+    <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/status-open.svg" />
+    <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/location-cairo.svg" />
+    <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/work-remote.svg" />
   </p>
 
   <p>
-    <a href="https://www.linkedin.com/in/paula-magdy/"><img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/linkedin.svg" alt="LinkedIn" /></a>
-    <a href="https://paulamagdy.com"><img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/portfolio.svg" alt="Portfolio" /></a>
-    <a href="mailto:paulamagdy665@gmail.com"><img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/email.svg" alt="Email" /></a>
-    <a href="https://leetcode.com/u/4pAckTIlBP/"><img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/leetcode.svg" alt="LeetCode" /></a>
-    <a href="https://www.hackerrank.com/profile/paulamagdy665"><img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/hackerrank.svg" alt="HackerRank" /></a>
+    <a href="https://www.linkedin.com/in/paula-magdy/"><img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/linkedin.svg" /></a>
+    <a href="https://paulamagdy.com"><img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/portfolio.svg" /></a>
+    <a href="mailto:paulamagdy665@gmail.com"><img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/email.svg" /></a>
+    <a href="https://leetcode.com/u/4pAckTIlBP/"><img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/leetcode.svg" /></a>
+    <a href="https://www.hackerrank.com/profile/paulamagdy665"><img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/hackerrank.svg" /></a>
   </p>
 
 </div>
@@ -45,16 +43,16 @@
 <br/>
 
 <!-- ============== ABOUT ============== -->
-## <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png?v8"><img height="28" src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png?v8" alt="" /></picture> &nbsp;About Me
+## <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png?v8"><img height="28" src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png?v8" /></picture> &nbsp;About Me
 
-Full-Stack Software Engineer with production experience across TypeScript (Next.js/NestJS), PHP (Laravel), and Python (Django/Flask) on AWS, Azure, and Huawei Cloud. AWS Certified Solutions Architect contributing across data modeling, API design, CI/CD, monitoring, and security on cross-functional teams, with measurable gains in API performance and deployment speed.
+Full-Stack Software Engineer with production experience across TypeScript (Next.js/NestJS), PHP (Laravel), and Python (Django/Flask) on AWS, Azure, and Huawei Cloud. AWS Certified Solutions Architect contributing across data modeling, API design, CI/CD, monitoring, and security, with a track record of measurable gains in API performance and deployment speed.
 
 <table width="100%">
   <tr><td colspan="2"><img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/spacer.svg" width="1100" height="0" alt="" /></td></tr>
-  <tr><td width="22%">🏢 &nbsp;<b>Company</b></td><td>Challenge Group — AWS / Huawei Cloud partner delivering platforms for government and enterprise clients across Egypt, KSA, and the UAE</td></tr>
-  <tr><td>🎓 &nbsp;<b>Certified</b></td><td>AWS Solutions Architect – Associate · AWS Cloud Practitioner · Huawei HCCDP Solution Architectures · HCCDA Tech Essentials</td></tr>
-  <tr><td>🎯 &nbsp;<b>Philosophy</b></td><td>Model the data carefully · test for confidence · ship through a pipeline, not by hand</td></tr>
-  <tr><td>⚡ &nbsp;<b>Fun fact</b></td><td>Helped take a 20-minute deploy down to under 5 by moving the team to container-first CI/CD</td></tr>
+  <tr><td width="22%">🏢 &nbsp;<b>Company</b></td><td>Challenge Group</td></tr>
+  <tr><td>🎓 &nbsp;<b>Certified</b></td><td>AWS Solutions Architect · AWS Cloud Practitioner · Huawei HCCDP / HCCDA</td></tr>
+  <tr><td>🎯 &nbsp;<b>Philosophy</b></td><td>Architect for scale · test for confidence · ship with discipline</td></tr>
+  <tr><td>⚡ &nbsp;<b>Fun fact</b></td><td>I cut a 20-min deploy down to under 5 minutes</td></tr>
 </table>
 
 <br/>
@@ -66,23 +64,23 @@ Full-Stack Software Engineer with production experience across TypeScript (Next.
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=javascript,typescript,python,php,cpp,html,css&theme=dark" alt="JavaScript, TypeScript, Python, PHP, C++, HTML, CSS" />
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python,php,cpp,html,css&theme=dark" />
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,bootstrap,vitest&theme=dark" alt="Next.js, React, Tailwind CSS, Bootstrap, Vitest" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,redux,tailwind,bootstrap,vitest&theme=dark" />
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,django,flask,laravel,redis&theme=dark" alt="NestJS, Node.js, Express, Django, Flask, Laravel, Redis" />
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,django,flask,laravel,redis&theme=dark" />
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,prisma&theme=dark" alt="PostgreSQL, MySQL, MongoDB, Prisma" />
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,prisma&theme=dark" />
 
 **Cloud · DevOps**
 
-<img src="https://skillicons.dev/icons?i=aws,azure&theme=dark" alt="AWS, Azure" /> <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/huaweicloud.svg" width="48" height="48" alt="Huawei Cloud" /> <img src="https://skillicons.dev/icons?i=docker,linux&theme=dark" alt="Docker, Linux" />
+<img src="https://skillicons.dev/icons?i=aws,azure&theme=dark" /> <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/huaweicloud.svg" width="48" height="48" alt="Huawei Cloud" /> <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux&theme=dark" />
 
 </div>
 
@@ -107,15 +105,15 @@ Full-Stack Software Engineer with production experience across TypeScript (Next.
   <tbody>
     <tr>
       <td>🎨 &nbsp;<b>Frontend</b></td>
-      <td>Next.js (App Router, SSR/SSG) · React 18/19 · TypeScript · Tailwind CSS · Bootstrap · Livewire · Filament · Blade</td>
+      <td>Next.js (App Router, SSR/ISR) · React 18 · TypeScript · Tailwind CSS · Bootstrap · Redux Toolkit · Livewire · Filament · Blade</td>
     </tr>
     <tr>
       <td>⚙️ &nbsp;<b>Backend</b></td>
-      <td>NestJS · Node.js · Express · Django · Flask · Laravel · REST · WebSockets (Laravel Reverb) · Serverless (AWS Lambda)</td>
+      <td>NestJS · Node.js · Express · Django · Flask · Laravel · REST · WebSockets · Reverb · Serverless</td>
     </tr>
     <tr>
       <td>🔐 &nbsp;<b>Auth & Security</b></td>
-      <td>JWT · Laravel Sanctum · RBAC · attribute-based routing · self-validating DTOs · request validation</td>
+      <td>JWT · RBAC · Sanctum · OAuth flows · input validation · API hardening</td>
     </tr>
     <tr>
       <td>🗄️ &nbsp;<b>Databases</b></td>
@@ -123,15 +121,15 @@ Full-Stack Software Engineer with production experience across TypeScript (Next.
     </tr>
     <tr>
       <td>☁️ &nbsp;<b>AWS</b></td>
-      <td>EC2 · ECS · ECR · RDS · S3 · CloudFront · ALB · Lambda · Lex · VPC · IAM · Secrets Manager · CodeBuild · CodePipeline · CloudWatch</td>
+      <td>EC2 · ECS · ECR · RDS · Aurora · S3 · CloudFront · Lambda · Lex · VPC · IAM · Secrets Manager · CodeBuild · CodePipeline · CloudWatch · Amplify</td>
     </tr>
     <tr>
       <td>🟦 &nbsp;<b>Azure</b></td>
-      <td>Azure API Management · Azure DevOps release pipelines · infrastructure provisioning</td>
+      <td>App Services · Azure API Management · Pipelines</td>
     </tr>
     <tr>
       <td>🟥 &nbsp;<b>Huawei Cloud</b></td>
-      <td>HCCDP Solution Architectures & HCCDA Tech Essentials certified — ECS · OBS · VPC / ELB · managed databases</td>
+      <td>ECS · OBS · RDS · VPC — multi-cloud deployments</td>
     </tr>
     <tr>
       <td>🧪 &nbsp;<b>Testing</b></td>
@@ -139,7 +137,7 @@ Full-Stack Software Engineer with production experience across TypeScript (Next.
     </tr>
     <tr>
       <td>🐳 &nbsp;<b>DevOps</b></td>
-      <td>Docker · container-first CI/CD (CodeBuild / CodePipeline, Azure DevOps) · CloudWatch monitoring & structured logging</td>
+      <td>Docker · Kubernetes · CI/CD pipelines · container-first deployments · monitoring & logging</td>
     </tr>
     <tr>
       <td>🔌 &nbsp;<b>Integrations</b></td>
@@ -147,7 +145,7 @@ Full-Stack Software Engineer with production experience across TypeScript (Next.
     </tr>
     <tr>
       <td>🧠 &nbsp;<b>Practices</b></td>
-      <td>Agile / Scrum · Domain-Driven Design · code reviews · automated tests in CI</td>
+      <td>Agile / Scrum · TDD · Domain-Driven Design · Code Reviews</td>
     </tr>
   </tbody>
 </table>
@@ -155,31 +153,6 @@ Full-Stack Software Engineer with production experience across TypeScript (Next.
 </details>
 
 </div>
-
-<br/>
-
-<!-- ============== FEATURED ============== -->
-## 🚀 Featured
-
-<table width="100%">
-  <tr><td colspan="2"><img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/spacer.svg" width="1100" height="0" alt="" /></td></tr>
-  <tr>
-    <td width="30%"><a href="https://github.com/PaulaMagdi0/Portfolio-26"><b>Portfolio-26</b></a><br/><sub>TypeScript · Next.js 16 · Tailwind 4</sub></td>
-    <td>The source of <a href="https://paulamagdy.com">paulamagdy.com</a>. Statically rendered in English and Arabic (RTL), SEO-first metadata with a JSON-LD graph, and a first-class surface for AI agents: <code>llms.txt</code>, <code>Accept: text/markdown</code> content negotiation, and WebMCP tools. Gated in CI by Lighthouse (SEO 100 · a11y 100), 79 unit/a11y tests, and 22 Playwright E2E tests.</td>
-  </tr>
-  <tr>
-    <td><a href="https://paulamagdy.com/en#work"><b>Client case studies</b></a><br/><sub>Challenge Group · 2025–2026</sub></td>
-    <td>Six anonymized production case studies — a submission & evaluation platform for a government client, a legal-services marketplace backend, a high-traffic mobile backend, Azure infrastructure & API gateway, a scoring & ranking platform, and a serverless support chatbot — each with role, system context, and my contribution.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/PaulaMagdi0/Task-And-Project-Management-System"><b>Task & Project Management System</b></a><br/><sub>React · Django · PostgreSQL · WebSockets</sub></td>
-    <td>Full-stack productivity platform with real-time chat, task tracking, and project boards.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/PaulaMagdi0/MERN-Stack-Project-ITI"><b>Book discovery platform</b></a><br/><sub>MongoDB · Express · React · Node.js</sub></td>
-    <td>GoodReads-inspired app with auth, reviews, ratings, and reading lists — built during the ITI program.</td>
-  </tr>
-</table>
 
 <br/>
 
@@ -222,12 +195,10 @@ Full-Stack Software Engineer with production experience across TypeScript (Next.
 
 <div align="center">
 
-<a href="https://www.credly.com/badges/5fa348b1-de2c-4884-957e-ae21e7515b56"><img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/cert-aws-saa.svg" alt="AWS Certified Solutions Architect – Associate (verify on Credly)" /></a>
-<a href="https://www.credly.com/badges/72b404c5-b893-47a9-a8dc-688a9337ce57"><img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/cert-aws-ccp.svg" alt="AWS Certified Cloud Practitioner (verify on Credly)" /></a>
-<a href="https://e.huawei.com/en/talent/certification/#/verifyCertificate"><img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/cert-hccdp.svg" alt="Huawei HCCDP – Solution Architectures (verify with certificate no. HWENDCCCDP00180959183)" /></a>
-<a href="https://e.huawei.com/en/talent/certification/#/verifyCertificate"><img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/cert-hccda.svg" alt="Huawei HCCDA – Tech Essentials (verify with certificate no. HWENDCTEDA542672)" /></a>
-
-<sub>Click a badge to verify · Huawei certificate numbers: HCCDP <code>HWENDCCCDP00180959183</code> · HCCDA <code>HWENDCTEDA542672</code></sub>
+<img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/cert-aws-saa.svg" />
+<img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/cert-aws-ccp.svg" />
+<img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/cert-hccdp.svg" />
+<img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/cert-hccda.svg" />
 
 </div>
 
@@ -245,16 +216,28 @@ Full-Stack Software Engineer with production experience across TypeScript (Next.
 
 <div align="center">
 
-<!-- Streak and activity-graph cards were removed: their public hosts time out /
-     return HTTP 402 and rendered as broken images. Client work lives in private
-     repos and is not reflected in the public stats below. -->
+<!-- Row 1: Overall stats + top languages -->
 <table align="center">
   <tr>
     <td>
-      <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PaulaMagdi0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7&text_color=c9d1d9&include_all_commits=true&card_width=420" alt="GitHub Stats" />
+      <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PaulaMagdi0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7&text_color=c9d1d9&include_all_commits=true&count_private=true&card_width=420" alt="GitHub Stats" />
     </td>
     <td>
       <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PaulaMagdi0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=c9d1d9&langs_count=8&card_width=380" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Row 2: Streak + Activity Graph -->
+<table align="center">
+  <tr>
+    <td>
+      <img height="180" src="https://streak-stats.demolab.com?user=PaulaMagdi0&theme=tokyonight&hide_border=true&background=0D1117&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" alt="Streak Stats" />
+    </td>
+    <td>
+      <img height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=PaulaMagdi0&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2F81F7&line=2F81F7&point=2F81F7&area=true&hide_title=true&height=180" alt="Activity Graph" />
     </td>
   </tr>
 </table>
@@ -276,18 +259,18 @@ Full-Stack Software Engineer with production experience across TypeScript (Next.
 
 <div align="center">
 
-Open to full-stack roles and consulting engagements, including remote. I typically reply within 24 hours.
+Feel free to reach out — always happy to connect.
 
 <br/>
 
 <a href="https://www.linkedin.com/in/paula-magdy/">
-  <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/cta-linkedin.svg" alt="Connect on LinkedIn" />
+  <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/cta-linkedin.svg" />
 </a>
 <a href="mailto:paulamagdy665@gmail.com">
-  <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/cta-email.svg" alt="Email Paula" />
+  <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/cta-email.svg" />
 </a>
 <a href="https://paulamagdy.com">
-  <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/cta-portfolio.svg" alt="Visit the portfolio" />
+  <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/cta-portfolio.svg" />
 </a>
 
 </div>
@@ -295,4 +278,4 @@ Open to full-stack roles and consulting engagements, including remote. I typical
 <br/>
 
 <!-- ============== FOOTER ============== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" />
