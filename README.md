@@ -45,7 +45,7 @@
 <!-- ============== ABOUT ============== -->
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png?v8"><img height="28" src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png?v8" /></picture> &nbsp;About Me
 
-Full-Stack Software Engineer with production experience across TypeScript (Next.js/NestJS), PHP (Laravel), and Python (Django/Flask) on AWS, Azure, and Huawei Cloud. AWS Certified Solutions Architect contributing across data modeling, API design, CI/CD, monitoring, and security, with a track record of measurable gains in API performance and deployment speed.
+Full-stack software engineer working across TypeScript (NestJS, Next.js), PHP (Laravel), and Python (Django, Flask) on AWS, Azure, and Huawei Cloud. Comfortable owning a feature from the data model to the deployment pipeline. Recent work includes services holding 5,000+ concurrent users, API latency down about 35%, and deployments cut from roughly 20 minutes to under 5. AWS Certified Solutions Architect (Associate), also certified on Huawei Cloud.
 
 <table width="100%">
   <tr><td colspan="2"><img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/spacer.svg" width="1100" height="0" alt="" /></td></tr>
@@ -162,31 +162,32 @@ Full-Stack Software Engineer with production experience across TypeScript (Next.
 ### <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/current.svg" alt="Current" /> &nbsp;Full-Stack Software Engineer · *Challenge Group*
 🗓️ **Jun 2025 — Present** · Cairo, Egypt · cross-functional Agile delivery teams
 
-- 🧱 Developed backend services for government and enterprise platforms serving **5,000+ concurrent users** — domain-driven **NestJS** modules and **Laravel** APIs over PostgreSQL/Prisma and MySQL — with targeted indexing and query tuning that cut API latency by **~35%** under production load
-- ☁️ Moved deployments to container-first CI/CD — Docker → ECR → ECS via CodeBuild/CodePipeline — cutting deploy time from **~20 min to under 5**
-- 💳 Built a request-and-bid marketplace flow with escalation handling and an in-app **Paymob** wallet; delivered real-time chat (**Laravel Reverb**), **Twilio** voice/SMS, and **FCM** push in Arabic and English
-- 🛡️ Hardened API layers across products with **Sanctum/JWT**, **RBAC**, attribute-based routing, and self-validating DTOs
-- 🏗️ Provisioned and maintained **AWS** infrastructure (VPC, EC2, RDS, S3, CloudFront, IAM, Secrets Manager) for 5+ production environments, and independently ran the **Azure API Management** layer
-- 🤖 Independently designed, built, and shipped a serverless **Amazon Lex** chatbot on AWS Lambda + Twilio, cutting the support team's manual triage
-- 📈 Instrumented services with **CloudWatch** monitoring and structured logging; maintained automated tests (Pest, PHPUnit, Jest, Vitest) that run in CI
+• Develop NestJS and Laravel backend services for platforms with 5,000+ concurrent users, on PostgreSQL/Prisma and MySQL. Targeted indexing and query tuning brought API latency down about 35% under production load.
+• Moved deployments to container-based CI/CD (Docker, ECR, ECS via CodeBuild/CodePipeline), with Jest, Vitest, Pest, and PHPUnit suites gating each release. Deploy time went from roughly 20 minutes to under 5.
+• Designed and built a serverless support chatbot on Amazon Lex and AWS Lambda (Python) with a Twilio channel. It answers routine questions and hands off to a human agent when confidence drops, which cut the support team's manual triage.
+• Built a request-and-bid marketplace flow with escalation handling and an in-app Paymob wallet, so users can pay, get paid, and withdraw funds without leaving the platform.
+• Shipped bilingual (Arabic/English) live chat over Laravel Reverb WebSockets, voice and SMS through Twilio, FCM push notifications, and S3-backed media storage.
+• Built a NestJS rules engine for competition scoring and ranking on Prisma/PostgreSQL, plus live WebSocket leaderboards and Next.js operator dashboards and onboarding screens.
+• Set up a client's entire Azure side solo: infrastructure provisioning, API Management as the API gateway, and release pipelines in Azure DevOps.
+• Run AWS infrastructure (VPC, EC2, RDS, S3, CloudFront, IAM, Secrets Manager) for 5+ production environments, with CloudWatch dashboards, alarms, and structured logging.
+• Hardened API layers across products with Sanctum/JWT auth, RBAC, attribute-based routing, and self- validating DTOs. Bad requests get rejected before they reach business logic.
 
 <br/>
 
 ### 🎓 Full-Stack Engineer · *Information Technology Institute (ITI)*
 🗓️ **Oct 2024 — Jun 2025** · Cairo, Egypt · government-sponsored intensive program (~1,200 hours)
 
-- Built full-stack apps across two backend ecosystems — **Node.js / Express** and **Python (Django / Flask)** — with **React** front-ends, secure REST APIs, and RBAC
-- Modeled relational (SQL) and NoSQL schemas with normalization and indexing to keep queries efficient as datasets grew
-- Containerized with **Docker** and deployed to **AWS**, applying system-design fundamentals in Agile sprints
+• Built full-stack apps on two backend ecosystems, Node.js/Express and Python (Django, Flask), with React frontends, secure REST APIs, auth flows, and role-based access control.
+• Modeled relational and NoSQL databases with normalization and indexing so queries stayed fast as data grew; containerized services with Docker and deployed them to AWS in Agile sprints.
 
 <br/>
 
 ### 🛍️ Freelance Front-End Developer
 🗓️ **Oct 2023 — Oct 2024** · Cairo, Egypt
 
-- Shipped a production e-commerce storefront in **React** — responsive, cross-device UI wired to REST APIs for catalog and cart
-- Built a reusable component library with centralized state via **Context API**, removing prop-drilling as the catalog grew
-- Improved rendering performance and page-load times through render optimization and efficient asset loading
+• Built React storefront interfaces from design to production: responsive layouts, product catalog and cart screens wired to REST APIs.
+• Set up a reusable component library with Context API state, which removed prop drilling and kept catalog and cart state consistent as product ranges grew.
+• Tuned rendering and asset loading to cut page load times and keep large product listings smooth.
 
 <br/>
 
