@@ -162,14 +162,22 @@ Full-stack software engineer working across TypeScript (NestJS, Next.js), PHP (L
 ### <img src="https://raw.githubusercontent.com/PaulaMagdi0/PaulaMagdi0/master/assets/badges/current.svg" alt="Current" /> &nbsp;Full-Stack Software Engineer · *Challenge Group*
 🗓️ **Jun 2025 — Present** · Cairo, Egypt · cross-functional Agile delivery teams
 
-• Develop NestJS and Laravel backend services for platforms with 5,000+ concurrent users, on PostgreSQL/Prisma and MySQL. Targeted indexing and query tuning brought API latency down about 35% under production load.
+• Develop NestJS and Laravel backend services for platforms with 5,000+ concurrent users, on PostgreSQL/Prisma and MySQL. Targeted indexing and query tuning brought API latency down by about 35% under production load.
+
 • Moved deployments to container-based CI/CD (Docker, ECR, ECS via CodeBuild/CodePipeline), with Jest, Vitest, Pest, and PHPUnit suites gating each release. Deploy time went from roughly 20 minutes to under 5.
+
 • Designed and built a serverless support chatbot on Amazon Lex and AWS Lambda (Python) with a Twilio channel. It answers routine questions and hands off to a human agent when confidence drops, which cut the support team's manual triage.
+
 • Built a request-and-bid marketplace flow with escalation handling and an in-app Paymob wallet, so users can pay, get paid, and withdraw funds without leaving the platform.
+
 • Shipped bilingual (Arabic/English) live chat over Laravel Reverb WebSockets, voice and SMS through Twilio, FCM push notifications, and S3-backed media storage.
+
 • Built a NestJS rules engine for competition scoring and ranking on Prisma/PostgreSQL, plus live WebSocket leaderboards and Next.js operator dashboards and onboarding screens.
+
 • Set up a client's entire Azure side solo: infrastructure provisioning, API Management as the API gateway, and release pipelines in Azure DevOps.
+
 • Run AWS infrastructure (VPC, EC2, RDS, S3, CloudFront, IAM, Secrets Manager) for 5+ production environments, with CloudWatch dashboards, alarms, and structured logging.
+
 • Hardened API layers across products with Sanctum/JWT auth, RBAC, attribute-based routing, and self- validating DTOs. Bad requests get rejected before they reach business logic.
 
 <br/>
@@ -178,6 +186,7 @@ Full-stack software engineer working across TypeScript (NestJS, Next.js), PHP (L
 🗓️ **Oct 2024 — Jun 2025** · Cairo, Egypt · government-sponsored intensive program (~1,200 hours)
 
 • Built full-stack apps on two backend ecosystems, Node.js/Express and Python (Django, Flask), with React frontends, secure REST APIs, auth flows, and role-based access control.
+
 • Modeled relational and NoSQL databases with normalization and indexing so queries stayed fast as data grew; containerized services with Docker and deployed them to AWS in Agile sprints.
 
 <br/>
@@ -186,7 +195,9 @@ Full-stack software engineer working across TypeScript (NestJS, Next.js), PHP (L
 🗓️ **Oct 2023 — Oct 2024** · Cairo, Egypt
 
 • Built React storefront interfaces from design to production: responsive layouts, product catalog and cart screens wired to REST APIs.
+
 • Set up a reusable component library with Context API state, which removed prop drilling and kept catalog and cart state consistent as product ranges grew.
+
 • Tuned rendering and asset loading to cut page load times and keep large product listings smooth.
 
 <br/>
